@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "39 16 * * *"
+    - cron: "15 8 * * *"
 
 jobs:
   post-word:
