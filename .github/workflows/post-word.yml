@@ -1,1 +1,28 @@
+name: Post Word of the Day
 
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "07 10 * * *"
+
+jobs:
+  post-word:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run bot
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python post_word.py
