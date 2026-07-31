@@ -36,33 +36,41 @@ def main() -> None:
     if not entries:
         raise RuntimeError("words.json contains no entries.")
 
+    for entry in entries:
+        if not entry.get("title"):
+            raise RuntimeError(
+                "Every entry in words.json must have a title."
+            )
+
     try:
         used_titles = load_json("used_entries.json")
     except FileNotFoundError:
         used_titles = []
 
     if not isinstance(used_titles, list):
-        raise RuntimeError("used_entries.json must contain a JSON list.")
+        raise RuntimeError(
+            "used_entries.json must contain a JSON list."
+        )
 
-    # Only consider titles that still exist in words.json.
+    # Remove history entries whose lessons no longer exist.
     current_titles = {
-        entry.get("title") or entry.get("word")
+        entry["title"]
         for entry in entries
-        if entry.get("title") or entry.get("word")
     }
 
     used_titles = [
-        title for title in used_titles
+        title
+        for title in used_titles
         if title in current_titles
     ]
 
     available_entries = [
         entry
         for entry in entries
-        if (entry.get("title") or entry.get("word")) not in used_titles
+        if entry["title"] not in used_titles
     ]
 
-    # When every lesson has been used, begin a fresh cycle.
+    # When every lesson has been used, begin a new cycle.
     if not available_entries:
         print("All lessons have been used. Starting a new cycle.")
         used_titles = []
@@ -75,10 +83,7 @@ def main() -> None:
         entry_type,
         "🇮🇹 Today's Italian",
     )
-    lesson_title = entry.get("title") or entry.get("word")
-
-    if not lesson_title:
-        raise RuntimeError("The selected entry has no title.")
+    lesson_title = entry["title"]
 
     message = (
         f"## {post_title}\n\n"
