@@ -8,8 +8,11 @@ Its goal is simple: help learners improve their Italian one lesson at a time thr
 
 ## ✨ Features
 
-- 📖 Word of the Day
+-- 📖 Word of the Day
 - 💬 Expression of the Day
+- 🎲 Random lesson selection
+- 🚫 No repeated lessons until every entry has been used
+- 🔄 Automatic reset when the lesson database is exhausted
 - 📚 Grammar Tips *(planned)*
 - 🎭 Idioms *(planned)*
 - ⚠️ Common Mistakes *(planned)*
