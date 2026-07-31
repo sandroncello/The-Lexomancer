@@ -14,22 +14,67 @@ POST_TITLES = {
 }
 
 
+def load_json(filename: str):
+    with open(filename, "r", encoding="utf-8") as file:
+        return json.load(file)
+
+
+def save_json(filename: str, data) -> None:
+    with open(filename, "w", encoding="utf-8") as file:
+        json.dump(data, file, ensure_ascii=False, indent=2)
+        file.write("\n")
+
+
 def main() -> None:
     webhook_url = os.environ.get("DISCORD_WEBHOOK_URL")
 
     if not webhook_url:
         raise RuntimeError("DISCORD_WEBHOOK_URL is missing.")
 
-    with open("words.json", "r", encoding="utf-8") as file:
-        entries = json.load(file)
+    entries = load_json("words.json")
 
     if not entries:
         raise RuntimeError("words.json contains no entries.")
 
-    entry = random.choice(entries)
+    try:
+        used_titles = load_json("used_entries.json")
+    except FileNotFoundError:
+        used_titles = []
+
+    if not isinstance(used_titles, list):
+        raise RuntimeError("used_entries.json must contain a JSON list.")
+
+    # Only consider titles that still exist in words.json.
+    current_titles = {
+        entry.get("title") or entry.get("word")
+        for entry in entries
+        if entry.get("title") or entry.get("word")
+    }
+
+    used_titles = [
+        title for title in used_titles
+        if title in current_titles
+    ]
+
+    available_entries = [
+        entry
+        for entry in entries
+        if (entry.get("title") or entry.get("word")) not in used_titles
+    ]
+
+    # When every lesson has been used, begin a fresh cycle.
+    if not available_entries:
+        print("All lessons have been used. Starting a new cycle.")
+        used_titles = []
+        available_entries = entries
+
+    entry = random.choice(available_entries)
 
     entry_type = entry.get("type", "word")
-    post_title = POST_TITLES.get(entry_type, "🇮🇹 Today's Italian")
+    post_title = POST_TITLES.get(
+        entry_type,
+        "🇮🇹 Today's Italian",
+    )
     lesson_title = entry.get("title") or entry.get("word")
 
     if not lesson_title:
@@ -88,7 +133,16 @@ def main() -> None:
     )
 
     response.raise_for_status()
+
+    # Record the lesson only after Discord accepts the post.
+    used_titles.append(lesson_title)
+    save_json("used_entries.json", used_titles)
+
     print(f"Posted: {lesson_title}")
+    print(
+        f"Cycle progress: "
+        f"{len(used_titles)}/{len(entries)} lessons used."
+    )
 
 
 if __name__ == "__main__":
