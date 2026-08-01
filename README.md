@@ -1,28 +1,51 @@
-# The Lexomancer
+# 📚 The Lexomancer
 
-A lightweight, serverless Discord bot that delivers one carefully curated Italian lesson each day using GitHub Actions and Discord webhooks.
+**The Lexomancer** is an open-source Discord bot that automatically posts daily Italian language lessons using GitHub Actions and Discord webhooks.
 
-The goal is simple: make learning Italian a little easier by providing short, high-quality lessons that appear automatically, with zero infrastructure to maintain.
+Its goal is simple: help learners improve their Italian one lesson at a time through vocabulary, expressions, grammar, idioms, and common language mistakes.
 
 ---
 
-## Features
+## ✨ Features
 
-- 📖 Automatic daily Italian lessons
-- 🔀 No repeated entries until every lesson has been posted
-- 💬 Rich Discord formatting
+- 📖 Word of the Day
+- 💬 Expression of the Day
+- 🎲 Random lesson selection
+- 🚫 No repeated lessons until every lesson has been posted
+- 🔄 Automatic reset when the lesson database is exhausted
 - ⚡ Fully serverless using GitHub Actions
-- 📝 Multiple lesson types
-  - Words
-  - Expressions
-  - Grammar tips *(planned)*
-  - Idioms *(planned)*
-  - Common mistakes *(planned)*
-- 🔄 Automatic reset once the lesson pool is exhausted
+- 📚 Grammar Tips *(planned)*
+- 🎭 Idioms *(planned)*
+- ⚠️ Common Mistakes *(planned)*
+
+Each lesson includes:
+
+- 🇮🇹 Italian word or expression
+- 🇬🇧 English translation
+- 📝 Explanation
+- 💡 Example sentence(s)
+- 📌 Usage notes where appropriate
 
 ---
 
-## Project Structure
+## ⚙️ How It Works
+
+Every day, GitHub Actions automatically runs a Python script that:
+
+1. Loads every lesson from `words.json`.
+2. Reads `used_entries.json` to determine which lessons have already been posted.
+3. Randomly selects one unused lesson.
+4. Formats it into a Discord-friendly message.
+5. Sends it through a Discord webhook.
+6. Records the lesson in `used_entries.json`.
+
+Once every lesson has been used, the history is automatically cleared and a new random cycle begins.
+
+No VPS, server, or always-on computer is required.
+
+---
+
+## 📁 Project Structure
 
 ```text
 .
@@ -32,100 +55,74 @@ The goal is simple: make learning Italian a little easier by providing short, hi
 ├── post_word.py
 ├── words.json
 ├── used_entries.json
+├── LICENSE
 └── README.md
 ```
 
 ---
 
-## How It Works
+## 🚀 Setup
 
-1. GitHub Actions triggers the workflow on a daily schedule.
-2. `post_word.py` loads every lesson from `words.json`.
-3. Previously posted lessons listed in `used_entries.json` are filtered out.
-4. One random unused lesson is selected.
-5. The lesson is formatted into a Discord message.
-6. The message is sent through a Discord webhook.
-7. If the post succeeds, the lesson is added to `used_entries.json`.
-8. Once every lesson has been used, the history is cleared automatically and a new cycle begins.
+1. Fork or clone this repository.
+2. Create a Discord webhook in your server.
+3. Add the webhook URL as a GitHub Actions secret named:
 
----
-
-## Lesson Format
-
-Each lesson is stored as a JSON object.
-
-Example:
-
-```json
-{
-  "type": "word",
-  "title": "sfrecciare",
-  "part_of_speech": "intransitive verb",
-  "definition": "To move or pass very quickly.",
-  "example_it": "Una moto è sfrecciata davanti a noi.",
-  "example_en": "A motorcycle sped past us.",
-  "note": "In the passato prossimo, it normally takes essere."
-}
+```text
+DISCORD_WEBHOOK_URL
 ```
 
-Different lesson types may include additional fields (for example expressions with multiple usage patterns).
+4. Enable GitHub Actions.
+5. Run the workflow manually or wait for the scheduled run.
 
 ---
 
-## Technologies
+## 🛠️ Built With
 
 - Python 3.12
 - GitHub Actions
 - Discord Webhooks
-- JSON
 
 ---
 
-## Design Principles
+## 🗺️ Roadmap
 
-The project intentionally keeps things simple.
+### ✅ Completed
 
-- No database
-- No hosted server
-- No Discord bot token
-- No external frameworks
-- Human-readable lesson data
-- Easy to extend with new lesson types
+- [x] Daily vocabulary
+- [x] Daily expressions
+- [x] Random lesson selection
+- [x] Prevent repeated lessons
+- [x] Automatic reset once all lessons have been used
+- [x] Rich Discord formatting
 
-The bot is designed to be reliable, maintainable, and inexpensive to run.
+### 🚧 Planned
 
----
-
-## Roadmap
-
-### Completed
-
-- ✅ Automatic daily posting
-- ✅ Word support
-- ✅ Expression support
-- ✅ Rich Discord formatting
-- ✅ No-repeat cycle
-- ✅ Automatic cycle reset
-
-### Planned
-
-- ⏳ Grammar tips
-- ⏳ Idioms
-- ⏳ Common mistakes
-- ⏳ Retry logic for temporary webhook failures
-- ⏳ Richer lesson formatting
-- ⏳ Larger lesson database
+- [ ] Grammar lessons
+- [ ] Idioms
+- [ ] Common mistakes
+- [ ] Retry logic for temporary Discord failures
+- [ ] Expand the lesson database
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
-Suggestions, corrections, and new lesson ideas are always welcome.
+Suggestions, corrections, and pull requests are always welcome.
 
-If you spot an error or have an idea for improving the project, feel free to open an issue or submit a pull request.
+Whether you want to expand the lesson database, improve formatting, or add new features, contributions are appreciated.
 
 ---
 
-## License
+## 📄 License
 
-MIT
+This project is licensed under the MIT License.
+
+---
+
+## ❤️ Acknowledgements
+
+Built by **sandroncello**.
+
+Special thanks to **ChatGPT**, who contributed to the design, implementation, debugging, and countless rounds of troubleshooting throughout the project.
+
+Debugged through equal parts determination, GitHub Mobile suffering, and distributed systems deciding to wake up eventually.
