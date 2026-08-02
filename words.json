@@ -1,63 +1,104 @@
 [
   {
-  "type": "word",
-  "title": "sfrecciare",
-  "part_of_speech": "intransitive verb",
-  "definition": "To move or pass very quickly.",
-  "example_it": "Una moto è sfrecciata davanti a noi.",
-  "example_en": "A motorcycle sped past us.",
-  "note": "In the passato prossimo, it normally takes essere (e.g. è sfrecciata)."
-},
-{
-  "type": "expression",
-  "title": "A seconda di / A seconda che",
-  "definition": "Depending on; depending on whether.",
-  "example_di_it": "Decideremo a seconda delle circostanze.",
-  "example_di_en": "We'll decide depending on the circumstances.",
-  "example_che_it": "Le pupille del gatto si dilatano o si restringono a seconda che ci sia poca o molta luce.",
-  "example_che_en": "A cat's pupils dilate or constrict depending on whether there is little or a lot of light.",
-  "note": "Use 'a seconda di' before a noun or pronoun. 'A seconda che' is rarer, is followed by the subjunctive, and is used when what happens next depends on which of two or more possible situations occurs."
-},
-{
-  "type": "word",
-  "title": "azzardare",
-  "part_of_speech": "transitive verb",
-  "definition": "To dare, venture, or risk saying or doing something despite uncertainty.",
-  "example_it": "Non ti azzardare a mettere l'ananas sulla pizza! 🍕",
-  "example_en": "Don't you dare put pineapple on pizza! 🍍🚫",
-  "note": "Besides its transitive use (azzardare un'ipotesi), it is very common in the reflexive form 'azzardarsi', especially in expressions like 'Non ti azzardare a...!' meaning 'Don't you dare...!'."
-},
-{
-  "type": "expression",
-  "title": "Per quanto",
-  "definition": "Means 'however much', 'no matter how', or 'although', depending on the context.",
-  "example_di_it": "Per quanto ci provi, non riesce a convincerlo.",
-  "example_di_en": "No matter how hard she tries, she can't convince him.",
-  "example_che_it": "Per quanto fosse stanco, ha continuato a lavorare.",
-  "example_che_en": "However tired he was, he kept working.",
-  "note": "Can introduce either a concession ('although') or indicate degree ('however much'). Pay attention to the context and the verb mood."
-},
-{
-  "type": "word",
-  "title": "accorgersi",
-  "part_of_speech": "reflexive verb",
-  "definition": "To notice, realize, or become aware of something.",
-  "example_it": "Scusami, non me ne ero accorto.",
-  "example_en": "Sorry, I hadn't realized.",
-  "example_di_it": "Mi sto accorgendo di aver sbagliato.",
-  "example_di_en": "I'm realizing I've made a mistake.",
-  "example_che_it": "Mi sono accorto che Franco l'aveva già fatto ieri.",
-  "example_che_en": "I realized that Franco had already done it yesterday.",
-  "note": "Always used reflexively and takes essere in compound tenses. It commonly takes 'di' + noun or infinitive when referring to the same subject, or 'che' + a conjugated clause."
-},
-{
-  "type": "expression",
-  "title": "Tanto vale",
-  "definition": "Means 'you might as well' or 'it's just as well', suggesting that one option is the most sensible or worthwhile given the circumstances.",
-  "example_it": "Tanto vale andare a piedi.",
-  "example_en": "We might as well walk.",
-  "example_che_it": "A me la crosta della pizza non piace, tanto vale che sia ripiena.",
-  "example_che_en": "I don't like pizza crust, so it might as well be stuffed.",
-  "note": "'Tanto vale' is commonly followed by the infinitive, but it can also be followed by 'che' + the subjunctive."
-}
+    "type": "word",
+    "title": "sfrecciare",
+    "part_of_speech": "intransitive verb",
+    "definition": "To move or pass very quickly.",
+    "examples": [
+      {
+        "it": "Una moto è sfrecciata davanti a noi.",
+        "en": "A motorcycle sped past us."
+      }
+    ],
+    "note": "In the passato prossimo, it normally takes essere (e.g. è sfrecciata)."
+  },
+  {
+    "type": "expression",
+    "title": "A seconda di / A seconda che",
+    "definition": "Depending on; depending on whether.",
+    "examples": [
+      {
+        "label": "A seconda di + noun or pronoun",
+        "it": "Decideremo a seconda delle circostanze.",
+        "en": "We'll decide depending on the circumstances."
+      },
+      {
+        "label": "A seconda che + subjunctive clause",
+        "it": "Le pupille del gatto si dilatano o si restringono a seconda che ci sia poca o molta luce.",
+        "en": "A cat's pupils dilate or constrict depending on whether there is little or a lot of light."
+      }
+    ],
+    "note": "Use 'a seconda di' before a noun or pronoun. 'A seconda che' is rarer, is followed by the subjunctive, and is used when what happens next depends on which of two or more possible situations occurs."
+  },
+  {
+    "type": "word",
+    "title": "azzardare",
+    "part_of_speech": "transitive verb",
+    "definition": "To dare, venture, or risk saying or doing something despite uncertainty.",
+    "examples": [
+      {
+        "it": "Non ti azzardare a mettere l'ananas sulla pizza! 🍕",
+        "en": "Don't you dare put pineapple on pizza! 🍍🚫"
+      }
+    ],
+    "note": "Besides its transitive use (azzardare un'ipotesi), it is very common in the reflexive form 'azzardarsi', especially in expressions like 'Non ti azzardare a...!' meaning 'Don't you dare...!'."
+  },
+  {
+    "type": "expression",
+    "title": "Per quanto",
+    "definition": "Means 'however much', 'no matter how', or 'although', depending on the context.",
+    "examples": [
+      {
+        "label": "Per quanto + present subjunctive",
+        "it": "Per quanto ci provi, non riesce a convincerlo.",
+        "en": "No matter how hard she tries, she can't convince him."
+      },
+      {
+        "label": "Per quanto + imperfect subjunctive",
+        "it": "Per quanto fosse stanco, ha continuato a lavorare.",
+        "en": "However tired he was, he kept working."
+      }
+    ],
+    "note": "Can introduce either a concession ('although') or indicate degree ('however much'). Pay attention to the context and the verb mood."
+  },
+  {
+    "type": "word",
+    "title": "accorgersi",
+    "part_of_speech": "reflexive verb",
+    "definition": "To notice, realize, or become aware of something.",
+    "examples": [
+      {
+        "it": "Scusami, non me ne ero accorto.",
+        "en": "Sorry, I hadn't realized."
+      },
+      {
+        "label": "di + infinitive",
+        "it": "Mi sto accorgendo di aver sbagliato.",
+        "en": "I'm beginning to realize I've made a mistake."
+      },
+      {
+        "label": "che + clause",
+        "it": "Mi sono accorto che Franco l'aveva già fatto ieri.",
+        "en": "I realized that Franco had already done it yesterday."
+      }
+    ],
+    "note": "Always used reflexively and takes essere in compound tenses. It commonly takes 'di' + noun or infinitive when referring to the same subject, or 'che' + a conjugated verb when introducing a separate clause."
+  },
+  {
+    "type": "expression",
+    "title": "Tanto vale",
+    "definition": "Means 'you might as well' or 'it's just as well', suggesting that one option is the most sensible or worthwhile given the circumstances.",
+    "examples": [
+      {
+        "it": "Tanto vale andare a piedi.",
+        "en": "We might as well walk."
+      },
+      {
+        "label": "che + subjunctive",
+        "it": "A me la crosta della pizza non piace, tanto vale che sia ripiena.",
+        "en": "I don't like pizza crust, so it might as well be stuffed."
+      }
+    ],
+    "note": "'Tanto vale' is commonly followed by the infinitive, but it can also be followed by 'che' + the subjunctive."
+  }
 ]
