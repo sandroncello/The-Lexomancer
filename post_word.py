@@ -52,7 +52,6 @@ def main() -> None:
             "used_entries.json must contain a JSON list."
         )
 
-    # Remove history entries whose lessons no longer exist.
     current_titles = {
         entry["title"]
         for entry in entries
@@ -70,7 +69,6 @@ def main() -> None:
         if entry["title"] not in used_titles
     ]
 
-    # When every lesson has been used, begin a new cycle.
     if not available_entries:
         print("All lessons have been used. Starting a new cycle.")
         used_titles = []
@@ -100,29 +98,30 @@ def main() -> None:
             f"{entry['definition']}"
         )
 
-    if entry.get("example_it") and entry.get("example_en"):
-        message += (
-            "\n\n"
-            "**Example**\n"
-            f"*{entry['example_it']}*\n"
-            f"{entry['example_en']}"
-        )
+    examples = entry.get("examples", [])
 
-    if entry.get("example_di_it") and entry.get("example_di_en"):
-        message += (
-            "\n\n"
-            "**A seconda di + noun or pronoun**\n"
-            f"*{entry['example_di_it']}*\n"
-            f"{entry['example_di_en']}"
-        )
+    if examples:
+        message += "\n\n**Examples**"
 
-    if entry.get("example_che_it") and entry.get("example_che_en"):
-        message += (
-            "\n\n"
-            "**A seconda che + subjunctive clause**\n"
-            f"*{entry['example_che_it']}*\n"
-            f"{entry['example_che_en']}"
-        )
+        for example in examples:
+            label = example.get("label")
+            italian = example.get("it")
+            english = example.get("en")
+
+            if not italian or not english:
+                raise RuntimeError(
+                    f"Invalid example in lesson: {lesson_title}"
+                )
+
+            message += "\n\n"
+
+            if label:
+                message += f"**{label}**\n"
+
+            message += (
+                f"*{italian}*\n"
+                f"{english}"
+            )
 
     if entry.get("note"):
         message += (
@@ -139,7 +138,6 @@ def main() -> None:
 
     response.raise_for_status()
 
-    # Record the lesson only after Discord accepts the post.
     used_titles.append(lesson_title)
     save_json("used_entries.json", used_titles)
 
