@@ -36,5 +36,28 @@
   "example_che_it": "Per quanto fosse stanco, ha continuato a lavorare.",
   "example_che_en": "However tired he was, he kept working.",
   "note": "Can introduce either a concession ('although') or indicate degree ('however much'). Pay attention to the context and the verb mood."
+},
+{
+  "type": "word",
+  "title": "accorgersi",
+  "part_of_speech": "reflexive verb",
+  "definition": "To notice, realize, or become aware of something.",
+  "example_it": "Scusami, non me ne ero accorto.",
+  "example_en": "Sorry, I hadn't realized.",
+  "example_di_it": "Mi sto accorgendo di aver sbagliato.",
+  "example_di_en": "I'm realizing I've made a mistake.",
+  "example_che_it": "Mi sono accorto che Franco l'aveva già fatto ieri.",
+  "example_che_en": "I realized that Franco had already done it yesterday.",
+  "note": "Always used reflexively and takes essere in compound tenses. It commonly takes 'di' + noun or infinitive when referring to the same subject, or 'che' + a conjugated clause."
+},
+{
+  "type": "expression",
+  "title": "Tanto vale",
+  "definition": "Means 'you might as well' or 'it's just as well', suggesting that one option is the most sensible or worthwhile given the circumstances.",
+  "example_it": "Tanto vale andare a piedi.",
+  "example_en": "We might as well walk.",
+  "example_che_it": "A me la crosta della pizza non piace, tanto vale che sia ripiena.",
+  "example_che_en": "I don't like pizza crust, so it might as well be stuffed.",
+  "note": "'Tanto vale' is commonly followed by the infinitive, but it can also be followed by 'che' + the subjunctive."
 }
 ]
