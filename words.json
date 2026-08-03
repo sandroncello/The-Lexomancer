@@ -108,7 +108,7 @@
   "examples": [
     {
       "it": "Non è difficile, anzi è facilissimo.",
-      "en": "It's not difficult. On the contrary, it's very easy."
+      "en": "It's not difficult. In fact, it's very easy."
     },
     {
       "label": "To correct yourself",
@@ -116,7 +116,7 @@
       "en": "See you on Thursday... actually, Friday."
     }
   ],
-  "note": "'Anzi' is used to revise or strengthen a previous statement. It often introduces a correction ('actually') or the opposite of what was just said ('on the contrary')."
+  "note": "'Anzi' is used to correct, revise or strengthen a previous statement. It often introduces a correction ('actually') or the opposite of what was just said ('on the contrary')."
 },
 {
   "type": "expression",
@@ -129,7 +129,7 @@
     },
     {
       "it": "Ormai vivo in Italia da cinque anni.",
-      "en": "I've been living in Italy for five years now."
+      "en": "I've lived in Italy for five years now."
     }
   ],
   "note": "'Ormai' often implies that a situation has become established or irreversible. The exact translation depends on the context."
