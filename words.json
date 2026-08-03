@@ -100,5 +100,38 @@
       }
     ],
     "note": "'Tanto vale' is commonly followed by the infinitive, but it can also be followed by 'che' + the subjunctive."
-  }
+  },
+{
+  "type": "expression",
+  "title": "Anzi",
+  "definition": "Means 'actually', 'on the contrary', or 'rather'. It is used to correct, strengthen, or replace what has just been said.",
+  "examples": [
+    {
+      "it": "Non è difficile, anzi è facilissimo.",
+      "en": "It's not difficult. On the contrary, it's very easy."
+    },
+    {
+      "label": "To correct yourself",
+      "it": "Ci vediamo giovedì... anzi, venerdì.",
+      "en": "See you on Thursday... actually, Friday."
+    }
+  ],
+  "note": "'Anzi' is used to revise or strengthen a previous statement. It often introduces a correction ('actually') or the opposite of what was just said ('on the contrary')."
+},
+{
+  "type": "expression",
+  "title": "Ormai",
+  "definition": "Means 'by now', 'at this point', or 'it's too late now', depending on the context. It indicates that a situation has reached a point where it is unlikely to change.",
+  "examples": [
+    {
+      "it": "Ormai è troppo tardi per cambiare idea.",
+      "en": "It's too late to change your mind now."
+    },
+    {
+      "it": "Ormai vivo in Italia da cinque anni.",
+      "en": "I've been living in Italy for five years now."
+    }
+  ],
+  "note": "'Ormai' often implies that a situation has become established or irreversible. The exact translation depends on the context."
+}
 ]
