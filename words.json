@@ -1,13 +1,15 @@
-{
-  "type": "word",
-  "title": "azzardare",
-  "part_of_speech": "verb",
-  "definition": "To dare, venture, or risk saying or doing something despite uncertainty.",
-  "examples": [
-    {
-      "it": "Non ti azzardare a mettere l'ananas sulla pizza! 🍕",
-      "en": "Don't you dare put pineapple on pizza! 🍍🚫"
-    }
-  ],
-  "note": "Besides its transitive use (azzardare un'ipotesi), it is very common in the reflexive form 'azzardarsi', especially in expressions like 'Non ti azzardare a...!', meaning 'Don't you dare...!'."
-}
+[
+  {
+    "type": "word",
+    "title": "azzardare",
+    "part_of_speech": "verb",
+    "definition": "To dare, venture, or risk saying or doing something despite uncertainty.",
+    "examples": [
+      {
+        "it": "Non ti azzardare a mettere l'ananas sulla pizza! 🍕",
+        "en": "Don't you dare put pineapple on pizza! 🍍🚫"
+      }
+    ],
+    "note": "Besides its transitive use (azzardare un'ipotesi), it is very common in the reflexive form 'azzardarsi', especially in expressions like 'Non ti azzardare a...!', meaning 'Don't you dare...!'."
+  }
+]
