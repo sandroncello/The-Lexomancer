@@ -1,6 +1,37 @@
 [
   {
     "type": "word",
+    "title": "sfrecciare",
+    "part_of_speech": "intransitive verb",
+    "definition": "To move or speed past very quickly.",
+    "examples": [
+      {
+        "it": "Una moto è sfrecciata davanti a noi.",
+        "en": "A motorcycle sped past us."
+      }
+    ],
+    "note": "In the passato prossimo, it normally takes essere (e.g. è sfrecciata)."
+  },
+  {
+    "type": "expression",
+    "title": "A seconda di / A seconda che",
+    "definition": "Depending on; depending on whether.",
+    "examples": [
+      {
+        "label": "A seconda di + noun or pronoun",
+        "it": "Decideremo a seconda delle circostanze.",
+        "en": "We'll decide depending on the circumstances."
+      },
+      {
+        "label": "A seconda che + subjunctive clause",
+        "it": "Le pupille del gatto si dilatano o si restringono a seconda che ci sia poca o molta luce.",
+        "en": "A cat's pupils dilate or constrict depending on whether there is little or a lot of light."
+      }
+    ],
+    "note": "Use 'a seconda di' before a noun or pronoun. 'A seconda che' is rarer, is followed by the subjunctive, and is used when what happens next depends on which of two or more possible situations occurs."
+  },
+  {
+    "type": "word",
     "title": "azzardare",
     "part_of_speech": "verb",
     "definition": "To dare, venture, or risk saying or doing something despite uncertainty.",
@@ -10,6 +41,165 @@
         "en": "Don't you dare put pineapple on pizza! 🍍🚫"
       }
     ],
-    "note": "Besides its transitive use (azzardare un'ipotesi), it is very common in the reflexive form 'azzardarsi', especially in expressions like 'Non ti azzardare a...!', meaning 'Don't you dare...!'."
+    "note": "Besides its transitive use (azzardare un'ipotesi), it is very common in the reflexive form 'azzardarsi', especially in expressions like 'Non ti azzardare a...!' meaning 'Don't you dare...!'."
+  },
+  {
+    "type": "expression",
+    "title": "Per quanto",
+    "definition": "Means 'however much', 'no matter how', or 'although', depending on the context.",
+    "examples": [
+      {
+        "label": "Per quanto + present subjunctive",
+        "it": "Per quanto ci provi, non riesce a convincerlo.",
+        "en": "No matter how hard she tries, she can't convince him."
+      },
+      {
+        "label": "Per quanto + imperfect subjunctive",
+        "it": "Per quanto fosse stanco, ha continuato a lavorare.",
+        "en": "However tired he was, he kept working."
+      }
+    ],
+    "note": "Can introduce either a concession ('although') or indicate degree ('however much'). Pay attention to the context and the verb mood."
+  },
+  {
+    "type": "word",
+    "title": "accorgersi",
+    "part_of_speech": "reflexive verb",
+    "definition": "To notice, realize, or become aware of something.",
+    "examples": [
+      {
+        "it": "Scusami, non me ne ero accorto.",
+        "en": "Sorry, I hadn't realized."
+      },
+      {
+        "label": "di + infinitive",
+        "it": "Mi sto accorgendo di aver sbagliato.",
+        "en": "I'm beginning to realize I've made a mistake."
+      },
+      {
+        "label": "che + clause",
+        "it": "Mi sono accorto che Franco l'aveva già fatto ieri.",
+        "en": "I realized that Franco had already done it yesterday."
+      }
+    ],
+    "note": "Always used reflexively and takes essere in compound tenses. It commonly takes 'di' + noun or infinitive when referring to the same subject, or 'che' + a conjugated verb when introducing a separate clause."
+  },
+  {
+    "type": "expression",
+    "title": "Tanto vale",
+    "definition": "Means 'you might as well', suggesting that one option is the most sensible or worthwhile given the circumstances.",
+    "examples": [
+      {
+        "it": "Tanto vale andare a piedi.",
+        "en": "We might as well walk."
+      },
+      {
+        "label": "che + subjunctive",
+        "it": "A me la crosta della pizza non piace, tanto vale che sia ripiena.",
+        "en": "I don't like pizza crust, so it might as well be stuffed."
+      }
+    ],
+    "note": "'Tanto vale' is commonly followed by the infinitive, but it can also be followed by 'che' + the subjunctive."
+  },
+  {
+    "type": "expression",
+    "title": "Anzi",
+    "definition": "Means 'actually', 'on the contrary', or 'rather'. It is used to correct, strengthen, or replace what has just been said.",
+    "examples": [
+      {
+        "it": "Non è difficile, anzi è facilissimo.",
+        "en": "It's not difficult. In fact, it's very easy."
+      },
+      {
+        "label": "To correct yourself",
+        "it": "Ci vediamo giovedì... anzi, venerdì.",
+        "en": "See you on Thursday... actually, Friday."
+      }
+    ],
+    "note": "'Anzi' is used to correct, revise or strengthen a previous statement. It often introduces a correction ('actually') or the opposite of what was just said ('on the contrary')."
+  },
+  {
+    "type": "word",
+    "title": "Ormai",
+    "definition": "Means 'by now', 'at this point', or 'it's too late now', depending on the context. It indicates that a situation has reached a point where it is unlikely to change.",
+    "examples": [
+      {
+        "it": "Ormai è troppo tardi per cambiare idea.",
+        "en": "It's too late to change your mind now."
+      },
+      {
+        "it": "Ormai vivo in Italia da cinque anni.",
+        "en": "I've lived in Italy for five years now."
+      }
+    ],
+    "note": "'Ormai' often implies that a situation has become established or irreversible. The exact translation depends on the context."
+  },
+  {
+    "type": "word",
+    "title": "capitare",
+    "part_of_speech": "intransitive verb",
+    "definition": "To happen, occur, or come about by chance.",
+    "examples": [
+      {
+        "it": "Mi è capitato di incontrarlo ieri.",
+        "en": "I happened to run into him yesterday."
+      },
+      {
+        "label": "capitare che + subjunctive",
+        "it": "Può capitare che nessuno risponda.",
+        "en": "Sometimes nobody answers."
+      }
+    ],
+    "note": "Use capitare di + infinitive when the person affected is also the understood subject of the infinitive. Use capitare che + subjunctive to introduce a full clause with its own subject."
+  },
+  {
+    "type": "word",
+    "title": "cavarsela",
+    "part_of_speech": "pronominal verb",
+    "definition": "To manage, cope, or get by in a situation.",
+    "examples": [
+      {
+        "it": "Se l'è cavata molto bene all'esame.",
+        "en": "He did very well on the exam."
+      },
+      {
+        "it": "Me la cavo abbastanza bene in italiano.",
+        "en": "I get by pretty well in Italian."
+      }
+    ],
+    "note": "Often used with adverbs like 'bene', 'male', or 'così così'."
+  },
+  {
+    "type": "word",
+    "title": "beccare",
+    "part_of_speech": "transitive verb",
+    "definition": "To catch, run into, come across, or guess correctly (informal).",
+    "examples": [
+      {
+        "it": "Ho beccato Marco al supermercato.",
+        "en": "I ran into Marco at the supermarket."
+      },
+      {
+        "it": "Mi hanno beccato senza biglietto.",
+        "en": "They caught me without a ticket."
+      }
+    ],
+    "note": "A very common informal verb whose exact meaning depends on the context."
+  },
+  {
+    "type": "idiom",
+    "title": "cadere dal pero",
+    "definition": "To be caught completely by surprise or to be completely unaware of something.",
+    "examples": [
+      {
+        "it": "Sono caduto dal pero quando ho saputo che si erano lasciati.",
+        "en": "I was completely taken aback when I found out they'd broken up."
+      },
+      {
+        "it": "Queste cose me le devi dire in anticipo, non mi piace cadere dal pero davanti alla gente.",
+        "en": "You need to tell me these things beforehand. I don't like being caught off guard in front of people."
+      }
+    ],
+    "note": "It usually expresses genuine surprise or complete unawareness. It can also be used sarcastically when someone appears surprised by something they should already know."
   }
 ]
