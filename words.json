@@ -14,7 +14,7 @@
   },
   {
     "type": "expression",
-    "title": "A seconda di / A seconda che",
+    "title": "a seconda di / a seconda che",
     "definition": "Depending on; depending on whether.",
     "examples": [
       {
@@ -45,7 +45,7 @@
   },
   {
     "type": "expression",
-    "title": "Per quanto",
+    "title": "per quanto",
     "definition": "Means 'however much', 'no matter how', or 'although', depending on the context.",
     "examples": [
       {
@@ -64,7 +64,7 @@
   {
     "type": "word",
     "title": "accorgersi",
-    "part_of_speech": "reflexive verb",
+    "part_of_speech": "pronominal verb",
     "definition": "To notice, realize, or become aware of something.",
     "examples": [
       {
@@ -82,11 +82,11 @@
         "en": "I realized that Franco had already done it yesterday."
       }
     ],
-    "note": "Always used reflexively and takes essere in compound tenses. It commonly takes 'di' + noun or infinitive when referring to the same subject, or 'che' + a conjugated verb when introducing a separate clause."
+    "note": "Always used with essere in compound tenses. It commonly takes 'di' + noun or infinitive when referring to the same subject, or 'che' + a conjugated verb when introducing a separate clause."
   },
   {
     "type": "expression",
-    "title": "Tanto vale",
+    "title": "tanto vale",
     "definition": "Means 'you might as well', suggesting that one option is the most sensible or worthwhile given the circumstances.",
     "examples": [
       {
@@ -102,8 +102,9 @@
     "note": "'Tanto vale' is commonly followed by the infinitive, but it can also be followed by 'che' + the subjunctive."
   },
   {
-    "type": "expression",
-    "title": "Anzi",
+    "type": "word",
+    "title": "anzi",
+    "part_of_speech": "adverb",
     "definition": "Means 'actually', 'on the contrary', or 'rather'. It is used to correct, strengthen, or replace what has just been said.",
     "examples": [
       {
@@ -120,7 +121,8 @@
   },
   {
     "type": "word",
-    "title": "Ormai",
+    "title": "ormai",
+    "part_of_speech": "adverb",
     "definition": "Means 'by now', 'at this point', or 'it's too late now', depending on the context. It indicates that a situation has reached a point where it is unlikely to change.",
     "examples": [
       {
@@ -147,7 +149,7 @@
       {
         "label": "capitare che + subjunctive",
         "it": "Può capitare che nessuno risponda.",
-        "en": "Sometimes nobody answers."
+        "en": "It may happen that nobody nobody answers."
       }
     ],
     "note": "Use capitare di + infinitive when the person affected is also the understood subject of the infinitive. Use capitare che + subjunctive to introduce a full clause with its own subject."
