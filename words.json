@@ -205,8 +205,8 @@
     "note": "It usually expresses genuine surprise or complete unawareness. It can also be used sarcastically when someone appears surprised by something they should already know."
   },
   {
-  "type": "word",
-  "title": "Volerci (ci vuole / ci vogliono)",
+  "type": "grammar",
+  "title": "volerci (ci vuole / ci vogliono)",
   "definition": "To be needed; to take (time, effort, or resources).",
   "examples": [
     {
@@ -220,8 +220,58 @@
     {
       "it": "C'è voluto molto poco per farlo arrabbiare.",
       "en": "It took very little to make him angry."
-}
+    }
   ],
   "note": "Use the singular (ci vuole) with singular nouns or infinitives, and the plural (ci vogliono) with plural nouns. It often expresses the time, effort, or resources needed for something."
+ },
+ {
+  "type": "expression",
+  "title": "avere ragione",
+  "definition": "Means 'to be right'. It is used to agree that someone is correct, either about a fact, an opinion, or a judgment.",
+  "examples": [
+    {
+      "it": "Hai ragione, avrei dovuto dirtelo prima.",
+      "en": "You're right, I should have told you earlier."
+    },
+    {
+      "it": "Secondo me ha ragione Marco.",
+      "en": "I think Marco is right."
+    }
+  ],
+  "note": "Italian uses 'avere ragione' literally 'to have reason' where English uses 'to be right'. The opposite is 'avere torto' ('to be wrong')."
+ },
+ {
+  "type": "word",
+  "title": "mica",
+  "part_of_speech": "adverb",
+  "definition": "A very common colloquial adverb used to reinforce a negation, add emphasis, or express contrast. Depending on the context, it can mean 'not at all', 'by no means', or 'it's not as if'.",
+  "examples": [
+    {
+      "it": "Sono cose vere queste, mica favole.",
+      "en": "These are real things, not fairy tales."
+    },
+    {
+      "it": "Mica male, questo vino!",
+      "en": "This wine isn't bad at all!"
+    }
+  ],
+  "note": "'Mica' is extremely common in spoken Italian. It often appears with a negative verb (e.g. 'Non è mica facile'), but it can also be used without 'non' to add emphasis or express contrast, as in 'mica favole', 'mica poco', or 'mica male'."
+  },
+  {
+  "type": "word",
+  "title": "sciocchezza",
+  "part_of_speech": "noun (feminine)",
+  "definition": "Nonsense, a foolish thing, or something trivial, depending on the context.",
+  "examples": [
+    {
+      "it": "Sciocchezze, sei bravissimo!",
+      "en": "Nonsense, you're really good!"
+    },
+    {
+      "it": "Non preoccuparti, è una sciocchezza alla fine.",
+      "en": "Don't worry, it's no big deal after all."
+    }
+  ],
+  "note": "Often used in the plural ('sciocchezze') to mean 'nonsense'. It can also refer to something insignificant or foolish. It comes from the adjective 'sciocco' ('foolish', 'silly'), with the suffix '-ezza' forming an abstract noun."
 }
 ]
