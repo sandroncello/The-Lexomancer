@@ -33,7 +33,7 @@
   {
     "type": "word",
     "title": "azzardare",
-    "part_of_speech": "verb",
+    "part_of_speech": "transitive verb",
     "definition": "To dare, venture, or risk saying or doing something despite uncertainty.",
     "examples": [
       {
@@ -87,11 +87,11 @@
   {
     "type": "expression",
     "title": "tanto vale",
-    "definition": "Means 'you might as well', suggesting that one option is the most sensible or worthwhile given the circumstances.",
+    "definition": "Means 'might as well', suggesting that one option is the most sensible or worthwhile given the circumstances.",
     "examples": [
       {
         "it": "Tanto vale andare a piedi.",
-        "en": "We might as well walk."
+        "en": "Might as well walk."
       },
       {
         "label": "che + subjunctive",
@@ -149,7 +149,7 @@
       {
         "label": "capitare che + subjunctive",
         "it": "Può capitare che nessuno risponda.",
-        "en": "It may happen that nobody nobody answers."
+        "en": "It may happen that nobody answers."
       }
     ],
     "note": "Use capitare di + infinitive when the person affected is also the understood subject of the infinitive. Use capitare che + subjunctive to introduce a full clause with its own subject."
@@ -161,8 +161,8 @@
     "definition": "To manage, cope, or get by in a situation.",
     "examples": [
       {
-        "it": "Se l'è cavata molto bene all'esame.",
-        "en": "He did very well on the exam."
+        "it": "Marco se l'è cavata molto bene all'esame.",
+        "en": "Marco did very well on the exam."
       },
       {
         "it": "Me la cavo abbastanza bene in italiano.",
@@ -203,5 +203,25 @@
       }
     ],
     "note": "It usually expresses genuine surprise or complete unawareness. It can also be used sarcastically when someone appears surprised by something they should already know."
-  }
+  },
+  {
+  "type": "grammar",
+  "title": "Volerci (ci vuole / ci vogliono)",
+  "definition": "To be needed; to take (time, effort, or resources).",
+  "examples": [
+    {
+      "it": "Ci vuole molta pazienza per imparare una lingua.",
+      "en": "It takes a lot of patience to learn a language."
+    },
+    {
+      "it": "Ci vogliono due ore per arrivarci.",
+      "en": "It takes two hours to get there."
+    },
+    {
+      "it": "C'è voluto molto poco per farlo arrabbiare.",
+      "en": "It took very little to make him angry."
+}
+  ],
+  "note": "Use the singular (ci vuole) with singular nouns or infinitives, and the plural (ci vogliono) with plural nouns. It often expresses the time, effort, or resources needed for something."
+}
 ]
