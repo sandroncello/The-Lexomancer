@@ -273,5 +273,63 @@
     }
   ],
   "note": "Often used in the plural ('sciocchezze') to mean 'nonsense'. It can also refer to something insignificant or foolish. It comes from the adjective 'sciocco' ('foolish', 'silly'), with the suffix '-ezza' forming an abstract noun."
+}, 
+{
+  "type": "word",
+  "title": "farcela",
+  "part_of_speech": "pronominal verb",
+  "definition": "To manage, succeed, or be able to do something.",
+  "examples": [
+    {
+      "it": "Non ce la faccio più, sono stanchissimo.",
+      "en": "I can't take it anymore, I'm exhausted."
+    },
+    {
+      "it": "Pensavo di non arrivare in tempo, ma alla fine ce l'ho fatta.",
+      "en": "I thought I wouldn't make it in time, but in the end I did."
+    }
+  ],
+  "note": "'Farcela' is conjugated with the pronouns 'ce' and 'la': ce la faccio, ce la fai, etc. In compound tenses it takes 'avere', and the past participle agrees with 'la': 'ce l'ho fatta', 'ce l'hai fatta'."
+},
+{
+  "type": "grammar",
+  "title": "si impersonale vs. si passivante",
+  "definition": "Italian uses 'si' both to make impersonal statements and to form passive constructions. They look similar, but behave differently.",
+  "examples": [
+    {
+      "label": "Si impersonale",
+      "it": "In Italia si mangia bene.",
+      "en": "In Italy, one eats well."
+    },
+    {
+      "label": "Si passivante",
+      "it": "Si trovano molti tipi di caffè in questo negozio.",
+      "en": "Many different types of coffee are found in this shop."
+    }
+  ],
+  "note": "With the impersonal 'si', there is no grammatical subject and the verb is normally third-person singular. With the passive 'si', the noun is the grammatical subject, so the verb agrees with it: 'si vende una casa' but 'si vendono due case'."
+},
+{
+  "type": "grammar",
+  "title": "potere vs. riuscire vs. farcela",
+  "definition": "'Potere', 'riuscire', and 'farcela' can all correspond to 'can' or 'be able to' in English, but they focus on different aspects: possibility, successful execution, and overcoming a difficulty.",
+  "examples": [
+    {
+      "label": "Potere: possibility or permission",
+      "it": "Non posso venire stasera perché lavoro.",
+      "en": "I can't come tonight because I'm working."
+    },
+    {
+      "label": "Riuscire: succeeding in a particular action",
+      "it": "Non riesco ad aprire questa bottiglia.",
+      "en": "I can't manage to open this bottle."
+    },
+    {
+      "label": "Farcela: overcoming a difficulty or reaching a goal",
+      "it": "Pensavo fosse impossibile, ma ce l'ho fatta!",
+      "en": "I thought it was impossible, but I did it!"
+    }
+  ],
+  "note": "'Potere' expresses whether something is possible or permitted, without implying an attempt. 'Riuscire a' focuses on succeeding in performing a particular action. 'Farcela' focuses more on managing to overcome a difficulty or reach a goal, and can stand on its own without stating the action ('Ce la fai?' / 'Ce l'ho fatta!'). 'Riuscire' and 'farcela' often overlap, but 'farcela' is generally more colloquial and expressive."
 }
 ]
