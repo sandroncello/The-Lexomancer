@@ -10,19 +10,19 @@ Its goal is simple: help learners improve their Italian one lesson at a time thr
 
 - 📖 Word of the Day
 - 💬 Expression of the Day
+- 📚 Grammar Tips
+- 🎭 Idioms
 - 🎲 Random lesson selection
 - 🚫 No repeated lessons until every lesson has been posted
 - 🔄 Automatic reset when the lesson database is exhausted
 - ⚡ Fully serverless using GitHub Actions
-- 📚 Grammar Tips *(planned)*
-- 🎭 Idioms *(planned)*
 - ⚠️ Common Mistakes *(planned)*
 
-Each lesson includes:
+Each lesson can include:
 
-- 🇮🇹 Italian word or expression
-- 🇬🇧 English translation
-- 📝 Explanation
+- 🇮🇹 Italian words, expressions, or constructions
+- 🇬🇧 Natural English translations
+- 📝 Clear explanations
 - 💡 Example sentence(s)
 - 📌 Usage notes where appropriate
 
@@ -41,6 +41,8 @@ Every day, GitHub Actions automatically runs a Python script that:
 
 Once every lesson has been used, the history is automatically cleared and a new random cycle begins.
 
+New lessons can be added to the database at any time and immediately become eligible for selection.
+
 No VPS, server, or always-on computer is required.
 
 ---
@@ -57,7 +59,7 @@ No VPS, server, or always-on computer is required.
 ├── used_entries.json
 ├── LICENSE
 └── README.md
-```
+````
 
 ---
 
@@ -78,9 +80,9 @@ DISCORD_WEBHOOK_URL
 
 ## 🛠️ Built With
 
-- Python 3.12
-- GitHub Actions
-- Discord Webhooks
+* Python 3.12
+* GitHub Actions
+* Discord Webhooks
 
 ---
 
@@ -88,20 +90,21 @@ DISCORD_WEBHOOK_URL
 
 ### ✅ Completed
 
-- [x] Daily vocabulary
-- [x] Daily expressions
-- [x] Random lesson selection
-- [x] Prevent repeated lessons
-- [x] Automatic reset once all lessons have been used
-- [x] Rich Discord formatting
+* [x] Daily vocabulary
+* [x] Daily expressions
+* [x] Grammar lessons
+* [x] Idioms
+* [x] Random lesson selection
+* [x] Prevent repeated lessons
+* [x] Automatic reset once all lessons have been used
+* [x] Rich Discord formatting
+* [x] Support for multiple examples and usage notes
 
 ### 🚧 Planned
 
-- [ ] Grammar lessons
-- [ ] Idioms
-- [ ] Common mistakes
-- [ ] Retry logic for temporary Discord failures
-- [ ] Expand the lesson database
+* [ ] Common mistakes
+* [ ] Retry logic for temporary Discord failures
+* [ ] Expand the lesson database
 
 ---
 
@@ -109,7 +112,7 @@ DISCORD_WEBHOOK_URL
 
 Suggestions, corrections, and pull requests are always welcome.
 
-Whether you want to expand the lesson database, improve formatting, or add new features, contributions are appreciated.
+Whether you want to expand the lesson database, improve formatting, correct an entry, or add new features, contributions are appreciated.
 
 ---
 
@@ -123,6 +126,6 @@ This project is licensed under the MIT License.
 
 Built by **sandroncello**.
 
-Special thanks to **ChatGPT**, who contributed to the design, implementation, debugging, and countless rounds of troubleshooting throughout the project.
+Special thanks to **ChatGPT**, which contributed to the design, implementation, debugging, lesson development, and countless rounds of troubleshooting throughout the project.
 
 Debugged through equal parts determination, GitHub Mobile suffering, and distributed systems deciding to wake up eventually.
