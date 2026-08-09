@@ -331,5 +331,122 @@
     }
   ],
   "note": "'Potere' expresses whether something is possible or permitted, without implying an attempt. 'Riuscire a' focuses on succeeding in performing a particular action. 'Farcela' focuses more on managing to overcome a difficulty or reach a goal, and can stand on its own without stating the action ('Ce la fai?' / 'Ce l'ho fatta!'). 'Riuscire' and 'farcela' often overlap, but 'farcela' is generally more colloquial and expressive."
+},
+{
+  "type": "word",
+  "title": "svignarsela",
+  "part_of_speech": "pronominal verb",
+  "definition": "To slip away, sneak off, or make a quick exit, usually without attracting attention.",
+  "examples": [
+    {
+      "it": "Appena ha visto arrivare la polizia, se l'è svignata.",
+      "en": "As soon as he saw the police arriving, he slipped away."
+    },
+    {
+      "it": "La festa era noiosa, quindi ce la siamo svignata presto.",
+      "en": "The party was boring, so we snuck off early."
+    }
+  ],
+  "note": "'Svignarsela' is informal and is commonly used when someone leaves quickly or discreetly. In compound tenses it takes 'essere'. Just like with 'cavarsela', the past participle is always feminine singular ('svignata') because it agrees with 'la': 'me la sono svignata', 'se l'è svignata', 'ce la siamo svignata', etc."
+},
+{
+  "type": "word",
+  "title": "caspita",
+  "part_of_speech": "interjection",
+  "definition": "An exclamation expressing surprise, admiration, annoyance, or emphasis, similar to 'wow', 'gosh', or 'damn' depending on the context.",
+  "examples": [
+    {
+      "it": "Caspita, che bella macchina!",
+      "en": "Wow, what a beautiful car!"
+    },
+    {
+      "it": "Caspita, potevi almeno avvisarmi!",
+      "en": "Jeez, you could've at least warned me!"
+    }
+  ],
+  "note": "'Caspita' is an informal but mild exclamation whose exact meaning depends heavily on tone and context. It can express positive surprise or admiration as well as irritation. It is considerably less vulgar than stronger exclamations such as 'cazzo'."
+},
+{
+  "type": "expression",
+  "title": "rompere le scatole",
+  "definition": "To annoy, bother, or pester someone.",
+  "examples": [
+    {
+      "it": "Smettila di rompermi le scatole!",
+      "en": "Stop bothering me!"
+    },
+    {
+      "it": "Quel rompiscatole continua a chiamarmi.",
+      "en": "That pain in the neck keeps calling me."
+    },
+    {
+      "it": "Fare tutta questa burocrazia è una rottura di scatole.",
+      "en": "Dealing with all this bureaucracy is such a pain."
+    }
+  ],
+  "note": "'Rompere le scatole' is an informal but relatively mild expression. 'Scatole' can be replaced by 'palle' or 'coglioni' for increasingly vulgar versions: 'rompere le palle' and 'rompere i coglioni'. The compound noun 'rompiscatole', as well as its more vulgar variants, refers to an annoying or bothersome person. The related expression 'una rottura di scatole' means 'a nuisance' or 'a pain', while the more vulgar 'una rottura di coglioni' corresponds roughly to 'a pain in the ass'."
+},
+{
+  "type": "word",
+  "title": "vabbè",
+  "part_of_speech": "interjection / discourse marker",
+  "definition": "A very common informal expression meaning 'well', 'alright', 'oh well', or 'whatever', depending on the context and tone.",
+  "examples": [
+    {
+      "it": "Vabbè, ne parliamo domani.",
+      "en": "Alright, we'll talk about it tomorrow."
+    },
+    {
+      "it": "Ho perso l'autobus... vabbè, prenderò il prossimo.",
+      "en": "I missed the bus... oh well, I'll take the next one."
+    },
+    {
+      "label": "Dismissive",
+      "it": "Vabbè, fai come vuoi.",
+      "en": "Whatever, do what you want."
+    }
+  ],
+  "note": "'Vabbè' comes from 'va bene' and is extremely common in informal spoken Italian. Its meaning depends strongly on intonation: it can express acceptance, resignation, dismissal, or a desire to move on. When said dismissively, it can correspond closely to English 'whatever' and may sound rude or annoyed."
+},
+{
+  "type": "word",
+  "title": "beh",
+  "part_of_speech": "interjection / discourse marker",
+  "definition": "A very common interjection roughly corresponding to 'well', 'so', or 'then', used to introduce a reaction, conclusion, objection, or question.",
+  "examples": [
+    {
+      "label": "Introducing a response",
+      "it": "Che ne pensi? — Beh, è un po' presto per dare un giudizio.",
+      "en": "What do you think? — Well, it's a bit early to judge."
+    },
+    {
+      "label": "Moving to a conclusion",
+      "it": "Beh, andiamocene!",
+      "en": "Well then, let's get out of here!"
+    },
+    {
+      "label": "Introducing an objection",
+      "it": "Beh, piano con certi discorsi!",
+      "en": "Hey, careful with that kind of talk!"
+    }
+  ],
+  "note": "'Beh' is extremely common in spoken Italian and often corresponds to English 'well', though its exact meaning depends on context and intonation. It can introduce a response, move a conversation toward a conclusion ('so', 'then'), or introduce an objection. It derives from 'bene' and is also commonly written 'be''."
+},
+{
+  "type": "word",
+  "title": "cagare",
+  "part_of_speech": "verb (vulgar)",
+  "definition": "Literally 'to shit', but colloquially it can also mean to pay attention to, acknowledge, or give consideration to someone or something.",
+  "examples": [
+    {
+      "it": "Non mi caga nessuno.",
+      "en": "Nobody pays any attention to me."
+    },
+    {
+      "it": "Dai, non cagarlo.",
+      "en": "Come on, don't pay any attention to him."
+    }
+  ],
+  "note": "In this figurative use, 'cagare' is vulgar and very informal. It commonly refers to giving someone attention or consideration, especially in negative expressions such as 'non cagare qualcuno'. The pronouns change normally: 'non mi caga', 'non ti caga', 'non lo/la/li/le caga', etc. Its literal meaning is 'to shit'."
 }
 ]
