@@ -448,5 +448,76 @@
     }
   ],
   "note": "In this figurative use, 'cagare' is vulgar and very informal. It commonly refers to giving someone attention or consideration, especially in negative expressions such as 'non cagare qualcuno'. The pronouns change normally: 'non mi caga', 'non ti caga', 'non lo/la/li/le caga', etc. Its literal meaning is 'to shit'."
+},
+{
+"type": "word",
+"title": "impazzire",
+"part_of_speech": "intransitive verb",
+"definition": "To go crazy or lose one's mind; figuratively, to go wild, become extremely enthusiastic, or start behaving erratically.",
+"examples": [
+{
+"it": "Sto impazzendo a trovare un parcheggio.",
+"en": "I'm going crazy trying to find parking."
+},
+{
+"it": "Quando hanno segnato all'ultimo minuto, lo stadio è impazzito.",
+"en": "When they scored in the last minute, the stadium went wild."
+},
+{
+"label": "impazzire per",
+"it": "Impazzisco per i romanzi vittoriani.",
+"en": "I'm crazy about Victorian novels."
+},
+{
+"label": "For things or devices",
+"it": "La bussola è impazzita.",
+"en": "The compass has gone haywire."
+}
+],
+"note": "'Impazzire' can be used literally or figuratively for people, and 'impazzire per qualcuno o qualcosa' means to be crazy about or really love them. It can also describe a device, instrument, or system that starts behaving erratically or stops working properly. In compound tenses it normally takes 'essere': 'sono impazzito/a'."
+},
+{
+"type": "word",
+"title": "prendersela",
+"part_of_speech": "pronominal verb",
+"definition": "To take something personally, get upset, or be offended by something.",
+"examples": [
+{
+"it": "Dai, non prendertela tanto, stavo scherzando!",
+"en": "Come on, don't take it so personally, I was joking!"
+},
+{
+"it": "Se l'è presa perché non l'abbiamo invitato.",
+"en": "He got upset because we didn't invite him."
+},
+{
+"label": "prendersela con qualcuno",
+"it": "Perché te la prendi con me? Non è colpa mia!",
+"en": "Why are you taking it out on me? It's not my fault!"
+}
+],
+"note": "'Prendersela' commonly means to get upset or take something personally. 'Prendersela con qualcuno' means to get angry with someone or take one's frustration out on them. In compound tenses it takes 'essere', and the past participle is feminine singular because it agrees with 'la': 'me la sono presa', 'se l'è presa', etc."
+},
+{
+"type": "word",
+"title": "incazzarsi",
+"part_of_speech": "pronominal verb (vulgar)",
+"definition": "To get angry or pissed off.",
+"examples": [
+{
+"it": "Non ti incazzare, lo sai che è vero!",
+"en": "Don't get pissed off, you know it's true!"
+},
+{
+"it": "Si è incazzato di brutto perché nessuno l'aveva avvisato.",
+"en": "He got seriously pissed off because nobody had told him."
+},
+{
+"label": "Past participle as an adjective",
+"it": "È ancora incazzata con me.",
+"en": "She's still pissed off at me."
+}
+],
+"note": "'Incazzarsi' is a very common but vulgar way of saying 'to get angry'. The adjective 'incazzato' means 'angry' or 'pissed off'. It is often used with 'con' for the person someone is angry with: 'Sono incazzato con lui'. The non-pronominal 'incazzare' can also mean 'to piss someone off', as in 'Questa cosa mi incazza'."
 }
 ]
