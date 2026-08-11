@@ -520,4 +520,21 @@
 ],
 "note": "'Incazzarsi' is a very common but vulgar way of saying 'to get angry'. The adjective 'incazzato' means 'angry' or 'pissed off'. It is often used with 'con' for the person someone is angry with: 'Sono incazzato con lui'. The non-pronominal 'incazzare' can also mean 'to piss someone off', as in 'Questa cosa mi incazza'."
 }
+{
+"type": "false_friend",
+"title": "riferimento vs. referenza",
+"definition": "English 'reference' is usually 'riferimento' when it means a mention, allusion, connection, or point of reference. Italian 'referenza' is used in more restricted contexts, such as recommendations, credentials, or professional references.",
+"examples": [
+{
+"it": "Nessuno ha colto il riferimento. 😔",
+"en": "Nobody got the reference. 🕊️"
+},
+{
+"label": "referenza",
+"it": "Mi hanno chiesto delle referenze per la candidatura. 💼",
+"en": "They asked me for references for my application. 👔"
+}
+],
+ "note": "Don't translate English 'reference' automatically as 'referenza'. For a reference to a film, book, person, idea, or event, use 'riferimento'. 'Referenza' is more limited and is commonly used for recommendations, credentials, or information provided about someone's reliability or professional background. In informal speech, especially among younger speakers and in online contexts, the English borrowing 'reference' can also be heard in place of 'riferimento'."
+}
 ]
