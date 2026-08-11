@@ -11,6 +11,7 @@ POST_TITLES = {
     "grammar": "📚 Grammar Tip",
     "idiom": "🎭 Idiom of the Day",
     "mistake": "⚠️ Common Mistake",
+    "false_friend": "👯 False Friend",
 }
 
 
