@@ -536,5 +536,37 @@
 }
 ],
  "note": "Don't translate English 'reference' automatically as 'referenza'. For a reference to a film, book, person, idea, or event, use 'riferimento'. 'Referenza' is more limited and is commonly used for recommendations, credentials, or information provided about someone's reliability or professional background. In informal speech, especially among younger speakers and in online contexts, the English borrowing 'reference' can also be heard in place of 'riferimento'."
+},
+{
+  "type": "expression",
+  "title": "prenderci la mano",
+  "definition": "To get the hang of something or become comfortable and skilled at doing it through practice.",
+  "examples": [
+    {
+      "it": "All'inizio è difficile, devi solo prenderci la mano.",
+      "en": "It's difficult at first, you just need to get the hang of it."
+    },
+    {
+      "it": "Una volta che ci hai preso la mano, diventa molto più facile.",
+      "en": "Once you get the hang of it, it becomes much easier."
+    }
+  ],
+  "note": "'Prenderci la mano' is used when someone gradually becomes familiar or proficient with something through practice. The 'ci' is part of the expression and refers to the activity or situation: 'ci prendo la mano', 'ci hai preso la mano', etc. Don't confuse it with the literal 'prendere la mano' ('to take someone's hand')."
+},
+{
+  "type": "expression",
+  "title": "saperci fare",
+  "definition": "To know how to handle something or someone; to have a knack or be skilled at dealing with a particular person, activity, or situation.",
+  "examples": [
+    {
+      "it": "Non ti preoccupare, nonna, lui ci sa fare con i computer.",
+      "en": "Don't worry, grandma, he knows his way around computers."
+    },
+    {
+      "it": "Essere attraente non significa saperci fare a letto.",
+      "en": "Being attractive doesn't mean you're good in bed."
+    }
+  ],
+  "note": "'Saperci fare' means to have skill, ability, or a particular knack for dealing with someone or something. It is commonly used with 'con': 'saperci fare con qualcuno/qualcosa'. It can also stand on its own or be used with other complements when the context makes the relevant skill clear. The pronoun 'ci' is a fixed part of the expression: 'io ci so fare', 'tu ci sai fare', 'lui/lei ci sa fare', etc."
 }
 ]
