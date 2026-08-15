@@ -568,5 +568,89 @@
     }
   ],
   "note": "'Saperci fare' means to have skill, ability, or a particular knack for dealing with someone or something. It is commonly used with 'con': 'saperci fare con qualcuno/qualcosa'. It can also stand on its own or be used with other complements when the context makes the relevant skill clear. The pronoun 'ci' is a fixed part of the expression: 'io ci so fare', 'tu ci sai fare', 'lui/lei ci sa fare', etc."
+},
+{
+  "type": "word",
+  "title": "desolato",
+  "part_of_speech": "adjective",
+  "definition": "Desolate, bleak, or deserted. When referring to a person, it can also mean deeply sorry, saddened, or distressed.",
+  "examples": [
+    {
+      "it": "Dopo l'incendio, il paesaggio era completamente desolato.",
+      "en": "After the fire, the landscape was completely desolate."
+    },
+    {
+      "label": "Sono desolato",
+      "it": "Sono desolato, ma non posso aiutarla.",
+      "en": "I'm terribly sorry, but I can't help you."
+    },
+    {
+      "label": "Deeply saddened",
+      "it": "Era desolato per quello che era successo.",
+      "en": "He was deeply upset about what had happened."
+    }
+  ],
+  "note": "When describing a place, 'desolato' can mean 'desolate', 'bleak', or 'deserted'. With a person, however, 'sono desolato/a' is commonly used to express strong regret or sorrow and can correspond to 'I'm terribly sorry'. It is generally stronger and more formal than 'mi dispiace'."
+},
+{
+  "type": "proverb",
+  "title": "tanto va la gatta al lardo che ci lascia lo zampino",
+  "definition": "If you repeatedly take the same risk or do something you shouldn't, sooner or later you'll get caught or suffer the consequences.",
+  "examples": [
+    {
+      "it": "Continua pure a copiare agli esami, ma ricorda: tanto va la gatta al lardo che ci lascia lo zampino.",
+      "en": "Keep cheating on exams if you want, but remember: sooner or later you'll get caught."
+    }
+  ],
+  "note": "Literally, 'the cat goes to the lard so often that eventually she leaves her paw behind.' The proverb warns that repeatedly taking the same risk will eventually have consequences. Depending on the context, English equivalents include 'you can only push your luck so far' and 'play with fire long enough and you'll get burned'."
+},
+{
+  "type": "word",
+  "title": "marachella",
+  "part_of_speech": "noun (feminine)",
+  "definition": "A mischievous or naughty little act, especially one done by a child; a prank or bit of mischief.",
+  "examples": [
+    {
+      "it": "Da piccolo ne combinavo di marachelle.",
+      "en": "When I was little, I used to get up to all sorts of mischief."
+    },
+    {
+      "it": "I bambini hanno fatto una marachella mentre la mamma era distratta.",
+      "en": "The children got into some mischief while their mother was distracted."
+    }
+  ],
+  "note": "'Marachella' usually refers to relatively harmless mischief or naughty behaviour, especially by children, and often has a playful or affectionate tone. A common expression is 'combinare una marachella' ('to get up to mischief' or 'to do something naughty'). The plural is 'marachelle'."
+},
+{
+  "type": "idiom",
+  "title": "tarallucci e vino",
+  "definition": "An expression used for the amicable resolution of an argument, dispute, or difficult situation, sometimes with the implication that a serious matter has been smoothed over too conveniently.",
+  "examples": [
+    {
+      "it": "Dopo ore di discussione, è finita a tarallucci e vino.",
+      "en": "After hours of arguing, in the end everyone made peace."
+    },
+    {
+      "it": "Erano pronti a farsi causa per un parcheggio, poi è finita a tarallucci e vino.",
+      "en": "They were ready to sue each other over a parking spot, but in the end they made peace."
+    }
+  ],
+  "note": "The expression is most commonly used in the construction 'finire a tarallucci e vino', meaning that a disagreement or difficult situation ends with everyone making peace. Literally, 'tarallucci e vino' means 'taralli and wine', evoking people settling their differences over food and drink. It can be used neutrally or humorously for an unexpectedly friendly resolution, but it can also have a critical or ironic tone, suggesting that a serious matter was conveniently smoothed over without any real consequences."
+},
+{
+  "type": "proverb",
+  "title": "tra il dire e il fare c'è di mezzo il mare",
+  "definition": "It's much easier to say that you will do something than to actually do it; there can be a big gap between words and actions.",
+  "examples": [
+    {
+      "it": "Dice che aprirà un ristorante entro l'anno, ma tra il dire e il fare c'è di mezzo il mare.",
+      "en": "He says he'll open a restaurant by the end of the year, but saying it and actually doing it are two very different things."
+    },
+    {
+      "it": "«Da domani mi sveglio alle sei e vado a correre ogni mattina.» «Certo... tra il dire e il fare c'è di mezzo il mare.»",
+      "en": "\"Starting tomorrow, I'm getting up at six and going running every morning.\" \"Sure... easier said than done.\""
+    }
+  ],
+  "note": "Literally, 'between saying and doing lies the sea.' The proverb emphasizes the distance between intentions or promises and actually putting them into practice. A common English equivalent is 'easier said than done', although the Italian proverb can also carry the broader idea that words and actions are two very different things."
 }
 ]
