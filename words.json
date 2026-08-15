@@ -687,5 +687,17 @@
     }
   ],
   "note": "'Cazziare' is an informal and vulgar verb meaning to scold or reprimand someone, often quite harshly. The related noun 'cazziata' means a telling-off or dressing-down, as in 'Mi sono preso una cazziata' ('I got a telling-off'). 'Cazziatone' is the augmentative form and refers to an especially severe or lengthy telling-off."
+},
+{
+  "type": "proverb",
+  "title": "la superbia andò a cavallo e tornò a piedi",
+  "definition": "Pride and arrogance often lead to humiliation or downfall.",
+  "examples": [
+    {
+      "it": "Era sicuro di vincere, ma è arrivato ultimo. La superbia andò a cavallo e tornò a piedi.",
+      "en": "He was sure he'd win, but he came last. Pride comes before a fall."
+    }
+  ],
+  "note": "Literally, 'pride went out on horseback and came back on foot.' The proverb is used when someone's arrogance or excessive confidence ends in humiliation or defeat. A close English equivalent is 'pride comes before a fall', a shortened form of the biblical 'Pride goeth before destruction, and an haughty spirit before a fall' (Proverbs 16:18, KJV)."
 }
 ]
