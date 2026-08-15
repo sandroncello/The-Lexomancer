@@ -652,5 +652,40 @@
     }
   ],
   "note": "Literally, 'between saying and doing lies the sea.' The proverb emphasizes the distance between intentions or promises and actually putting them into practice. A common English equivalent is 'easier said than done', although the Italian proverb can also carry the broader idea that words and actions are two very different things."
+},
+{
+  "type": "word",
+  "title": "cazzeggiare",
+  "part_of_speech": "intransitive verb (informal, vulgar)",
+  "definition": "To mess around, waste time, or do nothing particularly useful or serious, often in a relaxed or enjoyable way.",
+  "examples": [
+    {
+      "it": "Carlo passa tutto il tempo a cazzeggiare invece di studiare.",
+      "en": "Carlo spends all his time messing around instead of studying."
+    },
+    {
+      "it": "Stasera non ho voglia di fare niente, voglio solo cazzeggiare con gli amici.",
+      "en": "I don't feel like doing anything tonight, I just want to hang around and mess about with my friends."
+    }
+  ],
+  "note": "'Cazzeggiare' is a very common informal verb derived from 'cazzo'. Despite its vulgar origin, it is often used quite casually to mean wasting time, fooling around, or doing things without any serious purpose. The related noun 'cazzeggiamento' refers to the activity itself: 'Basta con il cazzeggiamento, mettiamoci al lavoro!' ('Enough messing around, let's get to work!'). Its tone depends heavily on context, so it is best avoided in formal situations."
+},
+{
+  "type": "word",
+  "title": "cazziare",
+  "part_of_speech": "transitive verb (informal, vulgar)",
+  "definition": "To tell someone off, scold them, or give them a dressing-down.",
+  "examples": [
+    {
+      "it": "Mia madre mi ha cazziato perché sono tornato a casa tardissimo.",
+      "en": "My mother told me off because I came home really late."
+    },
+    {
+      "label": "cazziatone",
+      "it": "Ha cercato di nascondere le tracce per evitare il cazziatone del capo.",
+      "en": "He tried to cover his tracks to avoid getting a massive telling-off from his boss."
+    }
+  ],
+  "note": "'Cazziare' is an informal and vulgar verb meaning to scold or reprimand someone, often quite harshly. The related noun 'cazziata' means a telling-off or dressing-down, as in 'Mi sono preso una cazziata' ('I got a telling-off'). 'Cazziatone' is the augmentative form and refers to an especially severe or lengthy telling-off."
 }
 ]
