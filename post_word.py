@@ -8,6 +8,7 @@ import requests
 POST_TITLES = {
     "word": "📖 Word of the Day",
     "expression": "💬 Expression of the Day",
+    "proverb": "🗣️ Proverb of the Day",
     "grammar": "📚 Grammar Tip",
     "idiom": "🎭 Idiom of the Day",
     "mistake": "⚠️ Common Mistake",
