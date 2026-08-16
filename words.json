@@ -804,5 +804,21 @@
 }
 ],
 "note": "'Furbo' is difficult to translate with a single English word because it can range from positively 'clever' or 'shrewd' to negatively 'crafty' or 'sly'. 'Furbizia' is the corresponding noun and refers to cleverness or cunning, especially the ability to gain an advantage through quick thinking. 'Furbone' is the augmentative form of 'furbo' and is often used teasingly or ironically for someone who thinks they have been particularly clever, sometimes with the implication that their little trick has been noticed."
+  },
+  {
+  "type": "idiom",
+  "title": "in men che non si dica",
+  "definition": "In no time, before you know it, or extremely quickly.",
+  "examples": [
+    {
+      "it": "Imparerai l'italiano in men che non si dica!",
+      "en": "You will learn Italian in no time!"
+    },
+    {
+      "it": "Ha detto che beveva solo un caffè, ma in men che non si dica le cialde erano tutte esaurite.",
+      "en": "He said he was only having one coffee, but in no time all the coffee pods were gone."
+    }
+  ],
+  "note": "'In men che non si dica' is a fixed expression meaning that something happens very quickly, often more quickly than expected. 'Men' is an old or literary shortened form of 'meno', preserved in this expression. Literally, the phrase is roughly 'in less time than it can be said', giving the idea of something happening before you even have time to say it."
   }
 ]
