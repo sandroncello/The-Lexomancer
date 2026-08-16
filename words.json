@@ -699,5 +699,39 @@
     }
   ],
   "note": "Literally, 'pride went out on horseback and came back on foot.' The proverb is used when someone's arrogance or excessive confidence ends in humiliation or defeat. A close English equivalent is 'pride comes before a fall', a shortened form of the biblical 'Pride goeth before destruction, and an haughty spirit before a fall' (Proverbs 16:18, KJV)."
+},
+{
+  "type": "expression",
+  "title": "cicciare fuori",
+  "part_of_speech": "verbal expression (informal)",
+  "definition": "To pop up, appear, or emerge, often suddenly or unexpectedly.",
+  "examples": [
+    {
+      "it": "Ma questo da dove diavolo è cicciato fuori?",
+      "en": "Where the hell did this guy come from?"
+    },
+    {
+      "it": "Cercavo il telecomando da settimane, ed eccolo che è cicciato fuori dai cuscini del divano.",
+      "en": "I'd been looking for the remote for weeks, and there it was, popping out from between the couch cushions."
+    }
+  ],
+  "note": "'Cicciare fuori' is an informal expression meaning to appear, emerge, or pop up. It often suggests that someone or something has appeared unexpectedly or seemingly out of nowhere. It is colloquial and is not equally common in all regions."
+},
+{
+"type": "word",
+"title": "stordire",
+"part_of_speech": "transitive verb",
+"definition": "To stun, daze, or overwhelm someone, either physically or mentally.",
+"examples": [
+{
+"it": "Tutte queste regole grammaticali mi hanno stordito.",
+"en": "All these grammar rules left me dazed."
+},
+{
+"it": "Il colpo lo ha stordito per qualche secondo.",
+"en": "The blow stunned him for a few seconds."
+}
+],
+"note": "'Stordire' can describe a physical effect, such as being dazed by a blow, loud noise, or strong sensation, but it can also be used figuratively when something overwhelms or confuses someone. The past participle 'stordito' is also commonly used as an adjective meaning 'dazed' or 'stunned'."
 }
 ]
