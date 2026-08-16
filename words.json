@@ -734,4 +734,47 @@
 ],
 "note": "'Stordire' can describe a physical effect, such as being dazed by a blow, loud noise, or strong sensation, but it can also be used figuratively when something overwhelms or confuses someone. The past participle 'stordito' is also commonly used as an adjective meaning 'dazed' or 'stunned'."
 }
+  {
+  "type": "word",
+  "title": "cavolo",
+  "part_of_speech": "noun (masculine) / interjection",
+  "definition": "Literally 'cabbage', but very commonly used as a mild substitute for 'cazzo' in exclamations and expressions, similar to 'damn', 'heck', or 'what the hell'.",
+  "examples": [
+    {
+      "it": "Cavolo, ho dimenticato le chiavi!",
+      "en": "Darn it, I forgot my keys!"
+    },
+    {
+      "it": "Ma che cavolo stai facendo?",
+      "en": "What the heck are you doing?"
+    },
+    {
+      "label": "non capire un cavolo",
+      "it": "Di matematica non capisco un cavolo.",
+      "en": "I don't understand a darn thing about math."
+    },
+    {
+      "label": "farsi i cavoli propri",
+      "it": "Fatti i cavoli tuoi!",
+      "en": "Mind your own business!"
+    }
+  ],
+  "note": "'Cavolo' literally means 'cabbage', but it is extremely common as a mild, non-vulgar substitute for 'cazzo'. It appears in many of the same constructions, such as 'che cavolo...?' ('what the hell...?'), 'non capire un cavolo' ('not understand a damn thing'), and simply 'Cavolo!' as an exclamation of surprise, annoyance, or frustration. Another common expression is 'farsi i cavoli propri' ('to mind one's own business'), as in 'Fatti i cavoli tuoi!' ('Mind your own business!'). The exact English translation depends heavily on context and tone."
+  },
+{
+  "type": "word",
+  "title": "risaputo",
+  "part_of_speech": "adjective",
+  "definition": "Well-known, widely known, or common knowledge, especially when something is already known by everyone or taken for granted.",
+  "examples": [
+    {
+      "it": "Il suo amore per il caffè è ormai risaputo.",
+      "en": "His love of coffee is common knowledge by now."
+    },
+    {
+      "it": "L'italiano è la lingua più bella sel mondo, è risaputo.",
+      "en": "Italian is the most beautiful language in the world. It is known."
+  ],
+  "note": "'Risaputo' describes something that is already widely known and therefore not new information. It is especially common in the impersonal construction 'è risaputo che...' ('it is well known that...'). It comes from 'sapere' and literally carries the idea of something being known over and over or thoroughly known. It can sometimes have a slightly ironic tone when pointing out something extremely obvious."
+}
 ]
