@@ -820,5 +820,21 @@
     }
   ],
   "note": "'In men che non si dica' is a fixed expression meaning that something happens very quickly, often more quickly than expected. 'Men' is an old or literary shortened form of 'meno', preserved in this expression. Literally, the phrase is roughly 'in less time than it can be said', giving the idea of something happening before you even have time to say it."
+  },
+  {
+  "type": "expression",
+  "title": "a detta di",
+  "definition": "According to, in someone's opinion, or based on what someone says.",
+  "examples": [
+    {
+      "it": "A detta del medico, non c'è nulla di cui preoccuparsi.",
+      "en": "According to the doctor, there's nothing to worry about."
+    },
+    {
+      "it": "A detta del nostro Ice Bear, non puoi funzionare senza il caffè.",
+      "en": "According to our Ice Bear, you can't function without coffee."
+    }
+  ],
+  "note": "'A detta di' is used to attribute a statement, opinion, or judgment to someone and is similar to English 'according to'. It is often slightly more formal or literary than 'secondo'. The preposition 'di' combines normally with articles: 'a detta del medico', 'a detta della stampa', 'a detta degli esperti'."
   }
 ]
