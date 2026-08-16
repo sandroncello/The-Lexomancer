@@ -777,5 +777,32 @@
     }
   ],
   "note": "'Risaputo' describes something that is already widely known and therefore not new information. It is especially common in the impersonal construction 'è risaputo che...' ('it is well known that...'). It comes from 'sapere' and literally carries the idea of something being known over and over or thoroughly known. It can sometimes have a slightly ironic tone when pointing out something extremely obvious."
+},
+{
+"type": "word",
+"title": "furbo",
+"part_of_speech": "adjective / noun",
+"definition": "Clever, shrewd, or crafty, especially at finding ways to get what you want or gain an advantage. Depending on the context, it can be complimentary or imply cunning or dishonesty.",
+"examples": [
+{
+"it": "Sei stato furbo a prenotare prima che aumentassero i prezzi.",
+"en": "You were smart to book before the prices went up."
+},
+{
+"it": "Non fare il furbo con me, ti ho visto prendere l'ultima cialda di caffè.",
+"en": "Don't get clever with me, I saw you take the last coffee pod."
+},
+{
+"label": "furbizia",
+"it": "Con un po' di furbizia è riuscito a ottenere il tavolo migliore.",
+"en": "With a bit of cunning, he managed to get the best table."
+},
+{
+"label": "furbone",
+"it": "Hai aspettato che pagassimo noi, eh? Furbone!",
+"en": "You waited for us to pay, huh? You sly dog!"
 }
+],
+"note": "'Furbo' is difficult to translate with a single English word because it can range from positively 'clever' or 'shrewd' to negatively 'crafty' or 'sly'. 'Furbizia' is the corresponding noun and refers to cleverness or cunning, especially the ability to gain an advantage through quick thinking. 'Furbone' is the augmentative form of 'furbo' and is often used teasingly or ironically for someone who thinks they have been particularly clever, sometimes with the implication that their little trick has been noticed."
+  }
 ]
