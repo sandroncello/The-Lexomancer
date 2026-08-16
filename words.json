@@ -733,7 +733,7 @@
 }
 ],
 "note": "'Stordire' can describe a physical effect, such as being dazed by a blow, loud noise, or strong sensation, but it can also be used figuratively when something overwhelms or confuses someone. The past participle 'stordito' is also commonly used as an adjective meaning 'dazed' or 'stunned'."
-}
+},
   {
   "type": "word",
   "title": "cavolo",
@@ -772,8 +772,9 @@
       "en": "His love of coffee is common knowledge by now."
     },
     {
-      "it": "L'italiano è la lingua più bella sel mondo, è risaputo.",
+      "it": "L'italiano è la lingua più bella del mondo, è risaputo.",
       "en": "Italian is the most beautiful language in the world. It is known."
+    }
   ],
   "note": "'Risaputo' describes something that is already widely known and therefore not new information. It is especially common in the impersonal construction 'è risaputo che...' ('it is well known that...'). It comes from 'sapere' and literally carries the idea of something being known over and over or thoroughly known. It can sometimes have a slightly ironic tone when pointing out something extremely obvious."
 }
