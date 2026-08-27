@@ -1,6 +1,8 @@
 import json
 import os
 import random
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -14,6 +16,9 @@ POST_TITLES = {
     "mistake": "⚠️ Common Mistake",
     "false_friend": "👯 False Friend",
 }
+
+POST_STATE_FILE = "post_state.json"
+POST_TIMEZONE = ZoneInfo("Europe/Rome")
 
 
 def load_json(filename: str):
@@ -32,6 +37,20 @@ def main() -> None:
 
     if not webhook_url:
         raise RuntimeError("DISCORD_WEBHOOK_URL is missing.")
+
+    today = datetime.now(POST_TIMEZONE).date().isoformat()
+
+    try:
+        post_state = load_json(POST_STATE_FILE)
+    except FileNotFoundError:
+        post_state = {}
+
+    if not isinstance(post_state, dict):
+        raise RuntimeError("post_state.json must contain a JSON object.")
+
+    if post_state.get("last_post_date") == today:
+        print(f"A lesson has already been posted on {today}. Skipping.")
+        return
 
     entries = load_json("words.json")
 
@@ -142,6 +161,13 @@ def main() -> None:
 
     used_titles.append(lesson_title)
     save_json("used_entries.json", used_titles)
+    save_json(
+        POST_STATE_FILE,
+        {
+            "last_post_date": today,
+            "last_post_title": lesson_title,
+        },
+    )
 
     print(f"Posted: {lesson_title}")
     print(
