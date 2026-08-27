@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: daily-lexomancer-post
+  cancel-in-progress: false
+
 jobs:
   post-word:
     runs-on: ubuntu-latest
