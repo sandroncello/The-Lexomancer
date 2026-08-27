@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: daily-lexomancer-post
+  cancel-in-progress: false
+
 jobs:
   post-word:
     runs-on: ubuntu-latest
@@ -34,6 +38,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add used_entries.json
+          git add used_entries.json post_state.json
           git diff --cached --quiet || git commit -m "Update lesson history"
           git push
