@@ -848,5 +848,33 @@
     }
   ],
   "note": "Literally, 'those who don't die are seen again.' Despite the dramatic wording, the expression is usually light-hearted and humorous. It is said when someone reappears after not being seen or heard from for a long time, and can sound warmly affectionate or playfully reproachful, especially if that person has been absent or out of touch."
+  },
+  {
+  "type": "grammar",
+  "title": "fermare / fermarsi vs. smettere",
+  "definition": "'Fermare', 'fermarsi', and 'smettere' can all relate to English 'stop', but they are used differently. 'Fermare' means to stop someone or something, 'fermarsi' means to come to a stop or pause, while 'smettere' means to stop or quit doing an activity.",
+  "examples": [
+    {
+      "label": "fermare",
+      "it": "La polizia ha fermato la macchina.",
+      "en": "The police stopped the car."
+    },
+    {
+      "label": "fermarsi",
+      "it": "La macchina si è fermata davanti al semaforo.",
+      "en": "The car stopped in front of the traffic light."
+    },
+    {
+      "label": "smettere di + infinitive",
+      "it": "Voglio smettere di fumare.",
+      "en": "I wanna stop smoking."
+    },
+    {
+      "label": "fermarsi a vs. smettere di",
+      "it": "Mi sono fermato a mangiare, ma non ho smesso di lavorare.",
+      "en": "I stopped to eat, but I didn't stop working."
+    }
+  ],
+  "note": "Use 'fermare' when someone causes another person or thing to stop: 'Ho fermato la macchina'. Use the pronominal 'fermarsi' when the subject itself stops or pauses: 'La macchina si è fermata'. To stop doing an activity, use 'smettere di + infinitive': 'Ho smesso di fumare', not 'ho fermato di fumare'. Be careful with 'fermarsi a + infinitive': it usually means to stop in order to do something, so 'mi sono fermato a mangiare' means 'I stopped to eat', whereas 'ho smesso di mangiare' means 'I stopped eating'."
   }
 ]
