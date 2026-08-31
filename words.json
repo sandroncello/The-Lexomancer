@@ -876,5 +876,60 @@
     }
   ],
   "note": "Use 'fermare' when someone causes another person or thing to stop: 'Ho fermato la macchina'. Use the pronominal 'fermarsi' when the subject itself stops or pauses: 'La macchina si è fermata'. To stop doing an activity, use 'smettere di + infinitive': 'Ho smesso di fumare', not 'ho fermato di fumare'. Be careful with 'fermarsi a + infinitive': it usually means to stop in order to do something, so 'mi sono fermato a mangiare' means 'I stopped to eat', whereas 'ho smesso di mangiare' means 'I stopped eating'."
+  },
+  {
+  "type": "word",
+  "title": "Culandia",
+  "part_of_speech": "proper noun (humorous, vulgar)",
+  "definition": "An imaginary place used humorously to refer to somewhere extremely remote, inconvenient, or far from where you actually want to be; roughly 'the middle of nowhere' or, more vulgarly, 'bumfuck nowhere'.",
+  "examples": [
+    {
+      "it": "L'aeroporto di Parigi si trova notoriamente in Culandia.",
+      "en": "The Paris airport is famously located in the middle of nowhere."
+    },
+    {
+      "it": "Purtroppo ho dovuto parcheggiare in Culandia, ma ho fatto la foto dello stallo.",
+      "en": "Unfortunately I had to park in the middle of nowhere, but I took a photo of the parking spot."
+    }
+  ],
+  "note": "'Culandia' is a humorous invented place name formed from 'culo' ('ass') and the suffix '-landia', used to create imaginary place names. Saying that something is 'in Culandia' means that it is very far away, inconveniently located, or in the middle of nowhere. Despite looking like a place name, it is not a real place and is deliberately silly and somewhat vulgar, so it belongs to informal speech."
+  },
+  {
+  "type": "grammar",
+  "title": "Ways to say “you're welcome”",
+  "definition": "Italian has many common ways to respond to 'grazie'. Besides the standard 'prego', expressions such as 'figurati', 'non c'è di che', 'di nulla', 'non c'è problema', and 'ci mancherebbe' are all natural, with slightly different tones and nuances.",
+  "examples": [
+    {
+      "label": "prego",
+      "it": "«Grazie mille!» «Prego!»",
+      "en": "\"Thank you very much!\" \"You're welcome!\""
+    },
+    {
+      "label": "figurati",
+      "it": "«Grazie per avermi aiutato.» «Figurati!»",
+      "en": "\"Thanks for helping me.\" \"Don't mention it!\""
+    },
+    {
+      "label": "non c'è di che",
+      "it": "«Grazie per il passaggio.» «Non c'è di che.»",
+      "en": "\"Thanks for the ride.\" \"Don't mention it.\""
+    },
+    {
+      "label": "di nulla",
+      "it": "«Grazie per il consiglio!» «Di nulla!»",
+      "en": "\"Thanks for the advice!\" \"You're welcome!\""
+    },
+    {
+      "label": "non c'è problema",
+      "it": "«Grazie per aver aspettato.» «Non c'è problema!»",
+      "en": "\"Thanks for waiting.\" \"No problem!\""
+    },
+    {
+      "label": "ci mancherebbe",
+      "it": "«Grazie per essere venuto ad aiutarmi.» «Ci mancherebbe!»",
+      "en": "\"Thanks for coming to help me.\" \"Of course!\""
+    }
+  ],
+  "note": "'Prego' is the standard, all-purpose response to 'grazie'. 'Figurati' is very common in informal speech and downplays the favour, much like 'don't mention it'; the formal equivalent is 'si figuri'. 'Non c'è di che' and 'di nulla' similarly suggest that no thanks are necessary. 'Non c'è problema' corresponds to 'no problem' or 'no worries' and is especially natural when reassuring someone that a favour or inconvenience was no trouble; 'nessun problema' is also commonly used with much the same meaning. 'Ci mancherebbe' is warmer and often implies something like 'of course' or 'it was the least I could do'. You may also hear 'di niente' as an alternative to 'di nulla', and the emphatic 'ma figurati!'."
   }
 ]
