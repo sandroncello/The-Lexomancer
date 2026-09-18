@@ -1011,5 +1011,22 @@
     }
   ],
   "note": "'Fare una figuraccia' means to make a very bad or embarrassing impression. It comes from 'figura' ('impression' or 'appearance' in this context) with the negative suffix '-accia'. The opposite expression is 'fare bella figura', meaning to make a good impression."
+},
+{
+  "type": "word",
+  "title": "bisticciare",
+  "part_of_speech": "intransitive verb",
+  "definition": "To bicker, squabble, or have a minor argument, usually over something relatively unimportant.",
+  "examples": [
+    {
+      "it": "Smettetela di bisticciare per ogni sciocchezza!",
+      "en": "Stop bickering over every little thing!"
+    },
+    {
+      "it": "Hanno bisticciato per chi dovesse pagare il conto.",
+      "en": "They squabbled over who should pay the bill."
+    }
+  ],
+  "note": "'Bisticciare' means to argue or quarrel, but usually suggests a relatively minor or petty disagreement rather than a serious conflict. It is therefore often closer to English 'to bicker' or 'to squabble' than the more general 'to argue'. It can also be used with 'con': 'bisticciare con qualcuno'."
 }
 ]
