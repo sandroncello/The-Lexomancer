@@ -931,5 +931,21 @@
     }
   ],
   "note": "'Prego' is the standard, all-purpose response to 'grazie'. 'Figurati' is very common in informal speech and downplays the favour, much like 'don't mention it'; the formal equivalent is 'si figuri'. 'Non c'è di che' and 'di nulla' similarly suggest that no thanks are necessary. 'Non c'è problema' corresponds to 'no problem' or 'no worries' and is especially natural when reassuring someone that a favour or inconvenience was no trouble; 'nessun problema' is also commonly used with much the same meaning. 'Ci mancherebbe' is warmer and often implies something like 'of course' or 'it was the least I could do'. You may also hear 'di niente' as an alternative to 'di nulla', and the emphatic 'ma figurati!'."
-  }
+  },
+{
+  "type": "idiom",
+  "title": "tirare le cuoia",
+  "definition": "To die; an informal and often humorous way of saying it, similar to English 'to kick the bucket'.",
+  "examples": [
+    {
+      "it": "Se bevo un altro caffè, tiro le cuoia.",
+      "en": "If I drink another coffee, I'll kick the bucket."
+    },
+    {
+      "it": "Il mio computer ha tirato le cuoia proprio durante l'esame.",
+      "en": "My computer kicked the bucket right during the exam."
+    }
+  ],
+  "note": "'Tirare le cuoia' is an informal idiom meaning 'to die'. 'Cuoia' is an old plural form of 'cuoio' ('hide' or 'leather'), preserved in this expression. Like English 'kick the bucket', it usually has a humorous, blunt, or irreverent tone and can sound insensitive when talking about a recent or serious death. It can also be used jokingly for things that have stopped working."
+}
 ]
