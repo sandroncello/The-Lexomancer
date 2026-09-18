@@ -947,5 +947,69 @@
     }
   ],
   "note": "'Tirare le cuoia' is an informal idiom meaning 'to die'. 'Cuoia' is an old plural form of 'cuoio' ('hide' or 'leather'), preserved in this expression. Like English 'kick the bucket', it usually has a humorous, blunt, or irreverent tone and can sound insensitive when talking about a recent or serious death. It can also be used jokingly for things that have stopped working."
+},
+{
+  "type": "expression",
+  "title": "rimanerci male",
+  "definition": "To feel hurt, upset, or disappointed because of something that happened or something someone said or did.",
+  "examples": [
+    {
+      "it": "Ci sono rimasto male quando non mi hai invitato alla festa.",
+      "en": "I was hurt when you didn't invite me to the party."
+    },
+    {
+      "it": "C'è rimasta male quando nessuno le ha fatto gli auguri.",
+      "en": "She was upset when nobody wished her a happy birthday."
+    }
+  ],
+  "note": "'Rimanerci male' is a very common expression for feeling hurt, disappointed, or upset about something. The exact English translation depends on the context. In compound tenses it takes 'essere': 'ci sono rimasto male', 'ci è rimasta male', etc."
+},
+{
+  "type": "expression",
+  "title": "avercela con qualcuno",
+  "definition": "To be angry or upset with someone, often because you blame them for something.",
+  "examples": [
+    {
+      "it": "Ce l'hai con me?",
+      "en": "Are you mad at me?"
+    },
+    {
+      "it": "Non so perché ce l'abbia con Marco.",
+      "en": "I don't know why he's angry with Marco."
+    }
+  ],
+  "note": "'Avercela con qualcuno' means to be angry, annoyed, or resentful toward someone. The pronouns 'ce' and 'la' are fixed parts of the expression: 'ce l'ho con te', 'ce l'hai con me', 'ce l'ha con lui', etc. Don't confuse it with 'avercela' meaning simply 'to have it', which can occur in other contexts."
+},
+{
+  "type": "expression",
+  "title": "a furia di",
+  "definition": "By doing something repeatedly or persistently, especially when that repeated action eventually produces a result or consequence.",
+  "examples": [
+    {
+      "it": "A furia di esercitarmi, sono migliorato molto.",
+      "en": "By practicing over and over, I improved a lot."
+    },
+    {
+      "it": "A furia di bere caffè, ormai non riesco più a dormire.",
+      "en": "From drinking so much coffee, I can't sleep anymore."
+    }
+  ],
+  "note": "'A furia di' is followed by a noun or an infinitive and emphasizes repeated or persistent action leading to a result. Importantly, that result does not have to be intentional: it can be something you wanted to achieve, as in 'a furia di esercitarmi, sono migliorato', or simply an unintended consequence. Here, 'furia' has the sense of a strong or violent impetus ('impeto violento'), rather than simply 'fury' or 'rage'."
+},
+{
+  "type": "expression",
+  "title": "fare una figuraccia",
+  "definition": "To embarrass yourself, make a bad impression, or make a fool of yourself in front of others.",
+  "examples": [
+    {
+      "it": "Ho chiamato il professore con il nome sbagliato e ho fatto una figuraccia.",
+      "en": "I called the professor by the wrong name and embarrassed myself."
+    },
+    {
+      "it": "Non dire niente se non sei sicuro, o farai una figuraccia!",
+      "en": "Don't say anything if you're not sure, or you'll make a fool of yourself!"
+    }
+  ],
+  "note": "'Fare una figuraccia' means to make a very bad or embarrassing impression. It comes from 'figura' ('impression' or 'appearance' in this context) with the negative suffix '-accia'. The opposite expression is 'fare bella figura', meaning to make a good impression."
 }
 ]
