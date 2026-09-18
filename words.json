@@ -1028,5 +1028,22 @@
     }
   ],
   "note": "'Bisticciare' means to argue or quarrel, but usually suggests a relatively minor or petty disagreement rather than a serious conflict. It is therefore often closer to English 'to bicker' or 'to squabble' than the more general 'to argue'. It can also be used with 'con': 'bisticciare con qualcuno'."
+},
+{
+  "type": "word",
+  "title": "assai",
+  "part_of_speech": "adverb (regional/literary)",
+  "definition": "Very, very much, or a lot; similar to 'molto', but with different regional and stylistic uses.",
+  "examples": [
+    {
+      "it": "Questo libro mi piace assai.",
+      "en": "I like this book very much."
+    },
+    {
+      "it": "La situazione è assai più complicata del previsto.",
+      "en": "The situation is much more complicated than expected."
+    }
+  ],
+  "note": "'Assai' generally means 'very', 'very much', or 'a lot' and often overlaps with 'molto'. It is particularly common in southern Italy, where it can be completely ordinary in everyday speech. Elsewhere, it is less common in casual conversation and may sound more emphatic, formal, or literary depending on the context. Before a comparative, as in 'assai più difficile', it means 'much' or 'far': 'much more difficult'."
 }
 ]
