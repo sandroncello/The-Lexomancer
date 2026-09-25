@@ -1045,5 +1045,157 @@
     }
   ],
   "note": "'Assai' generally means 'very', 'very much', or 'a lot' and often overlaps with 'molto'. It is particularly common in southern Italy, where it can be completely ordinary in everyday speech. Elsewhere, it is less common in casual conversation and may sound more emphatic, formal, or literary depending on the context. Before a comparative, as in 'assai più difficile', it means 'much' or 'far': 'much more difficult'."
+},
+{
+  "type": "word",
+  "title": "grossomodo",
+  "part_of_speech": "adverb",
+  "definition": "Roughly, approximately, or more or less; used when giving an estimate or describing something without going into exact details.",
+  "examples": [
+    {
+      "it": "Ci vorranno grossomodo due ore.",
+      "en": "It'll take roughly two hours."
+    },
+    {
+      "it": "Ho capito grossomodo come funziona, ma ho ancora qualche dubbio.",
+      "en": "I've more or less understood how it works, but I still have a few doubts."
+    }
+  ],
+  "note": "'Grossomodo' is used when giving an approximate figure or explaining something in general terms rather than precisely. It is similar to 'più o meno', 'all'incirca', and 'approssimativamente'. It is written as a single word, although the separate spelling 'grosso modo' is also accepted."
+},
+{
+  "type": "word",
+  "title": "fregarsene",
+  "part_of_speech": "pronominal verb (informal)",
+  "definition": "To not care about someone or something; often equivalent to 'not care', 'not give a damn', or 'couldn't care less', depending on the context and tone.",
+  "examples": [
+    {
+      "it": "Non me ne frega niente di quello che pensano gli altri.",
+      "en": "I don't give a damn what other people think."
+    },
+    {
+      "it": "Gli ho chiesto di aiutarmi, ma se n'è fregato.",
+      "en": "I asked him to help me, but he couldn't have cared less."
+    },
+    {
+      "label": "me ne frego",
+      "it": "Puoi criticarmi quanto vuoi, me ne frego.",
+      "en": "You can criticize me all you want, I don't care."
+    }
+  ],
+  "note": "'Fregarsene' expresses indifference or lack of concern and often has a dismissive or defiant tone. The pronouns change with the subject: 'me ne frego', 'te ne freghi', 'se ne frega', 'ce ne freghiamo', etc. 'Non me ne frega niente' is a very common and stronger way of saying that you do not care at all. Although less vulgar than expressions with 'cazzo', 'fregarsene' is informal and can sound rude or dismissive, so it is best avoided in formal situations."
+},
+{
+  "type": "expression",
+  "title": "alla buona",
+  "definition": "In a simple, informal, or makeshift way, without much fuss, refinement, or attention to detail.",
+  "examples": [
+    {
+      "it": "Abbiamo sistemato tutto un po' alla buona, ma almeno funziona.",
+      "en": "We fixed everything in a makeshift way, but at least it works."
+    },
+    {
+      "label": "una persona alla buona",
+      "it": "È una persona alla buona, puoi parlare tranquillamente con lui.",
+      "en": "He's a down-to-earth, easygoing person, you can talk to him freely."
+    }
+  ],
+  "note": "'Alla buona' generally suggests simplicity and a lack of formality or sophistication. With actions or arrangements, it can mean doing something simply, casually, or somewhat roughly, sometimes because a perfect solution is unnecessary or unavailable. When describing a person, 'alla buona' is usually positive and means unpretentious, easygoing, or down-to-earth. The exact English translation therefore depends strongly on the context."
+},
+{
+  "type": "expression",
+  "title": "non vedere l'ora",
+  "definition": "To be looking forward to something. Equivalent to English 'can't wait'.",
+  "examples": [
+    {
+      "it": "Non vedo l'ora di andare in vacanza!",
+      "en": "I can't wait to go on vacation!"
+    },
+    {
+      "it": "Non vedo l'ora che arrivi il fine settimana.",
+      "en": "I can't wait for the weekend to arrive."
+    },
+    {
+      "label": "Past tense",
+      "it": "Non vedevo l'ora di tornare a casa.",
+      "en": "I couldn't wait to get home."
+    }
+  ],
+  "note": "'Non vedere l'ora' literally means 'not to see the hour', but idiomatically it expresses eager anticipation. Use 'di + infinitive' when the subject of both actions is the same: 'non vedo l'ora di partire'. When a different subject is involved, use 'che + subjunctive': 'non vedo l'ora che tu arrivi'. Despite containing 'non', the expression has a positive meaning when you're eagerly looking forward to something."
+},
+{
+  "type": "word",
+  "title": "addirittura",
+  "part_of_speech": "adverb",
+  "definition": "Even, actually, or as much as; used to emphasize that something is surprising, remarkable, or more extreme than expected.",
+  "examples": [
+    {
+      "it": "Ha addirittura venduto la macchina per pagare i debiti.",
+      "en": "He even sold his car to pay his debts."
+    },
+    {
+      "it": "Ha bevuto addirittura sei caffè in una mattina.",
+      "en": "He drank no fewer than six coffees in one morning."
+    },
+    {
+      "label": "As an exclamation",
+      "it": "«Dice che parla sette lingue.» «Addirittura!»",
+      "en": "\"He says he speaks seven languages.\" \"Wow, really!\""
+    }
+  ],
+  "note": "'Addirittura' emphasizes that something goes beyond what was expected or seems particularly surprising or extreme. It often corresponds to English 'even': 'ha addirittura venduto la macchina' ('he even sold his car'). With quantities, it can emphasize how unexpectedly large they are, similar to 'as many as' or 'no fewer than'. It can also be used on its own as an exclamation of surprise or disbelief: 'Addirittura!' ('Really!', 'Wow!', or 'No way!', depending on the tone)."
+},
+{
+  "type": "word",
+  "title": "insomma",
+  "part_of_speech": "adverb / discourse marker",
+  "definition": "In short, all in all, well, or basically; a very common word used to summarize, draw a conclusion, express hesitation, or show impatience or dissatisfaction.",
+  "examples": [
+    {
+      "label": "Summing up",
+      "it": "Insomma, alla fine è andato tutto bene.",
+      "en": "All in all, everything went well in the end."
+    },
+    {
+      "label": "Hesitation or dissatisfaction",
+      "it": "«Com'era il film?» «Insomma... non mi è piaciuto molto.»",
+      "en": "\"How was the movie?\" \"Well... I didn't like it much.\""
+    },
+    {
+      "label": "Impatience",
+      "it": "Insomma, vuoi venire o no?",
+      "en": "Come on, are you coming or not?"
+    }
+  ],
+  "note": "'Insomma' is extremely common in spoken Italian and its meaning depends heavily on context and intonation. It can introduce a summary or conclusion, similar to 'in short' or 'all in all'. Said on its own or with a pause, 'insomma...' often expresses hesitation, dissatisfaction, or a lukewarm opinion. With a more forceful tone, it can express impatience or exasperation, similar to 'come on!' or 'for goodness' sake!'."
+},
+{
+  "type": "word",
+  "title": "importare",
+  "part_of_speech": "verb",
+  "definition": "To matter or be important to someone; also, in a different sense, to import goods, products, or data.",
+  "examples": [
+    {
+      "label": "non importa",
+      "it": "«Scusa per il ritardo.» «Non importa!»",
+      "en": "\"Sorry I'm late.\" \"It doesn't matter!\""
+    },
+    {
+      "label": "importare a qualcuno",
+      "it": "Non mi importa di quello che pensa la gente.",
+      "en": "I don't care what people think."
+    },
+    {
+      "label": "che importa?",
+      "it": "Che importa se piove? Usciamo lo stesso.",
+      "en": "Who cares if it's raining? We're going out anyway."
+    },
+    {
+      "label": "To import",
+      "it": "L'Italia importa petrolio da diversi paesi.",
+      "en": "Italy imports oil from several countries."
+    }
+  ],
+  "note": "'Importare' has two distinct common uses. In the sense of 'to matter', the person who cares is expressed with an indirect object: 'mi importa' ('it matters to me' / 'I care'), 'ti importa', 'gli importa', etc. 'Non importa' is an extremely common expression meaning 'it doesn't matter' or 'never mind', while 'che importa?' can mean 'what does it matter?' or 'who cares?'. With 'di', constructions such as 'non mi importa di...' mean 'I don't care about...'. In its other meaning, 'importare' is a regular transitive verb meaning 'to import', as in 'importare prodotti dall'estero'."
 }
 ]
