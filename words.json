@@ -1197,5 +1197,28 @@
     }
   ],
   "note": "'Importare' has two distinct common uses. In the sense of 'to matter', the person who cares is expressed with an indirect object: 'mi importa' ('it matters to me' / 'I care'), 'ti importa', 'gli importa', etc. 'Non importa' is an extremely common expression meaning 'it doesn't matter' or 'never mind', while 'che importa?' can mean 'what does it matter?' or 'who cares?'. With 'di', constructions such as 'non mi importa di...' mean 'I don't care about...'. In its other meaning, 'importare' is a regular transitive verb meaning 'to import', as in 'importare prodotti dall'estero'."
+},
+{
+  "type": "mistake",
+  "title": "fare senso ≠ make sense",
+  "definition": "Italian uses 'avere senso', not 'fare senso', for English 'to make sense'. 'Fare senso' means to disgust or gross someone out.",
+  "examples": [
+    {
+      "label": "avere senso",
+      "it": "Quello che dici ha senso.",
+      "en": "What you're saying makes sense."
+    },
+    {
+      "label": "fare senso",
+      "it": "Mi fanno senso gli scarafaggi.",
+      "en": "Cockroaches gross me out."
+    },
+    {
+      "label": "non avere senso",
+      "it": "Questa frase non ha senso.",
+      "en": "This sentence doesn't make sense."
+    }
+  ],
+  "note": "To say that something 'makes sense', use 'avere senso': 'ha senso', 'non ha senso', 'avrebbe senso', etc. 'Senso', much like English 'sense', can also refer to a feeling, impression, or the perception of a physical or psychological sensation. This helps explain 'fare senso': something 'fa senso' when it produces an unpleasant feeling or sensation, especially disgust or revulsion. For example, 'Mi fa senso il sangue' means 'Blood grosses me out'."
 }
 ]
